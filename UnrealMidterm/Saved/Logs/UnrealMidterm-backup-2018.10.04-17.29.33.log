@@ -1,0 +1,1562 @@
+﻿Log file open, 10/04/18 15:31:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UnrealMidterm
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.335100
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.380s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.04-22.31.37:566][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.04-22.31.37:566][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.04-22.31.37:590][  0]LogHAL: Display: Platform has ~ 16 GB [17044865024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.04-22.31.37:590][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.04-22.31.37:590][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.04-22.31.37:591][  0]LogInit: Computer: DESKTOP-7T5SUCP
+[2018.10.04-22.31.37:591][  0]LogInit: User: Sol
+[2018.10.04-22.31.37:591][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.04-22.31.37:591][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2018.10.04-22.31.37:591][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.04-22.31.37:591][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.04-22.31.37:591][  0]LogMemory: Process Physical Memory: 101.10 MB used, 101.10 MB peak
+[2018.10.04-22.31.37:591][  0]LogMemory: Process Virtual Memory: 85.13 MB used, 85.13 MB peak
+[2018.10.04-22.31.37:591][  0]LogMemory: Physical Memory: 7816.08 MB used,  8439.17 MB free, 16255.25 MB total
+[2018.10.04-22.31.37:591][  0]LogMemory: Virtual Memory: 4639.34 MB used,  8439.17 MB free, 134217728.00 MB total
+[2018.10.04-22.31.38:104][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.10.04-22.31.38:104][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.10.04-22.31.38:558][  0]LogStreaming: Display: Took  0.453s to InitEngineTextLocalization.
+[2018.10.04-22.31.38:558][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.04-22.31.38:623][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.04-22.31.38:623][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.04-22.31.39:134][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.04-22.31.39:134][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.04-22.31.39:220][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.10.04-22.31.39:220][  0]LogD3D11RHI:       6052/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.04-22.31.39:233][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.10.04-22.31.39:233][  0]LogD3D11RHI:       128/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.10.04-22.31.39:238][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.04-22.31.39:238][  0]LogD3D11RHI:       0/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.04-22.31.39:238][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.04-22.31.39:294][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.04-22.31.39:294][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.04-22.31.39:294][  0]LogWindows: EnumDisplayDevices:
+[2018.10.04-22.31.39:294][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.10.04-22.31.39:295][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.10.04-22.31.39:295][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.10.04-22.31.39:296][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.10.04-22.31.39:296][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.10.04-22.31.39:297][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.10.04-22.31.39:298][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.10.04-22.31.39:299][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.04-22.31.39:299][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.10.04-22.31.39:299][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
+[2018.10.04-22.31.39:299][  0]LogD3D11RHI:      Driver Date: 3-16-2018
+[2018.10.04-22.31.39:299][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.10.04-22.31.39:359][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.04-22.31.39:376][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.04-22.31.39:380][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Intermediate/Shaders/WorkingDirectory/12976/).
+[2018.10.04-22.31.39:380][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sol/AppData/Local/Temp/UnrealShaderWorkingDir/59FB195449AF1C78F1FFDFAC90F30C48/'.
+[2018.10.04-22.31.39:899][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.04-22.31.39:918][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.04-22.31.39:940][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.04-22.31.39:961][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.04-22.31.39:981][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.04-22.31.40:000][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.04-22.31.40:021][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.04-22.31.40:045][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.04-22.31.40:056][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:170][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:171][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:171][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:171][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:171][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.04-22.31.40:174][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.04-22.31.40:249][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.04-22.31.40:249][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.04-22.31.40:305][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.04-22.31.40:305][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.04-22.31.40:338][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.04-22.31.40:361][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.04-22.31.40:382][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.04-22.31.40:404][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.04-22.31.40:418][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.04-22.31.40:419][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.04-22.31.40:532][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.04-22.31.40:532][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.04-22.31.40:532][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.04-22.31.41:787][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.04-22.31.41:868][  0]LogDerivedDataCache: Loaded boot cache 0.08s 87MB C:/Users/Sol/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.04-22.31.41:869][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Sol/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.04-22.31.41:869][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.04-22.31.41:869][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.04-22.31.41:869][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.04-22.31.41:869][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.04-22.31.41:886][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.04-22.31.41:900][  0]LogDerivedDataCache: Using Local data cache path ../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/DerivedDataCache: Writable
+[2018.10.04-22.31.41:900][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.04-22.31.41:900][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.04-22.31.41:928][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.04-22.31.41:930][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.04-22.31.41:931][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.04-22.31.42:048][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.10.04-22.31.42:568][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.04-22.31.42:832][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.04-22.31.42:839][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.04-22.31.42:839][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.04-22.31.42:839][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.04-22.31.42:839][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.04-22.31.42:871][  0]LogNetVersion: UnrealMidterm 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 243509614)
+[2018.10.04-22.31.43:767][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.079208 seconds
+[2018.10.04-22.31.43:773][  0]LogUObjectArray: 38447 objects as part of root set at end of initial load.
+[2018.10.04-22.31.43:773][  0]LogUObjectAllocator: 6692632 out of 0 bytes used by permanent object pool.
+[2018.10.04-22.31.43:773][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.04-22.31.45:156][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.04-22.31.45:170][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.04-22.31.45:723][  0]SourceControl: Source control is disabled
+[2018.10.04-22.31.45:723][  0]SourceControl: Source control is disabled
+[2018.10.04-22.31.45:728][  0]SourceControl: Source control is disabled
+[2018.10.04-22.31.45:731][  0]SourceControl: Source control is disabled
+[2018.10.04-22.31.46:017][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.04-22.31.46:194][  0]LogOcInput: OculusInput pre-init called
+[2018.10.04-22.31.46:286][  0]LogEngine: Initializing Engine...
+[2018.10.04-22.31.46:288][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.04-22.31.46:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.04-22.31.46:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.04-22.31.46:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.04-22.31.46:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.04-22.31.46:595][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.04-22.31.46:612][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.04-22.31.46:655][  0]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.04-22.31.46:875][  0]LogInit: FAudioDevice initialized.
+[2018.10.04-22.31.46:876][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.04-22.31.47:005][  0]LogDerivedDataCache: Saved boot cache 0.13s 87MB C:/Users/Sol/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.04-22.31.47:025][  0]LogInit: Texture streaming: Enabled
+[2018.10.04-22.31.47:053][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.04-22.31.47:082][  0]LogInit: Transaction tracking system initialized
+[2018.10.04-22.31.47:125][  0]BlueprintLog: New page: Editor Load
+[2018.10.04-22.31.47:261][  0]LocalizationService: Localization service is disabled
+[2018.10.04-22.31.47:767][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.04-22.31.47:767][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.04-22.31.47:767][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.04-22.31.47:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.04-22.31.47:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.04-22.31.47:768][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.04-22.31.47:768][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.04-22.31.47:983][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/' took 0.04s
+[2018.10.04-22.31.47:984][  0]SourceControl: Source control is disabled
+[2018.10.04-22.31.47:984][  0]Cmd: MAP LOAD FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.04-22.31.48:001][  0]LightingResults: New page: Lighting Build
+[2018.10.04-22.31.48:005][  0]MapCheck: New page: Map Check
+[2018.10.04-22.31.48:005][  0]LightingResults: New page: Lighting Build
+[2018.10.04-22.31.49:310][  0]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.04-22.31.49:317][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.04-22.31.49:361][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.04-22.31.49:587][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 226.046ms to complete.
+[2018.10.04-22.31.49:587][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 1.604
+[2018.10.04-22.31.49:979][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-22.31.49:998][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-22.31.50:007][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-22.31.50:015][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-22.31.50:053][  0]LogCollectionManager: Loaded 0 collections in 0.001844 seconds
+[2018.10.04-22.31.50:163][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Collections/' took 0.01s
+[2018.10.04-22.31.50:163][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Developers/Sol/Collections/' took 0.01s
+[2018.10.04-22.31.50:163][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Collections/' took 0.01s
+[2018.10.04-22.31.50:163][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.04-22.31.50:176][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2574 classes and 606 folders.
+[2018.10.04-22.31.50:240][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.04-22.31.50:977][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.04-22.31.51:059][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.04-22.31.51:710][  0]LogSlate: Took 0.000504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.04-22.31.51:714][  0]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.04-22.31.51:765][  0]LogSlate: Took 0.007551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.04-22.31.52:098][  0]LogRenderer: Reallocating scene render targets to support 820x400 Format 10 NumSamples 1 (Frame:1).
+[2018.10.04-22.31.52:418][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.04-22.31.52:418][  0]LogLoad: (Engine Initialization) Total time: 18.47 seconds
+[2018.10.04-22.31.52:418][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.04-22.31.52:438][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-22.31.52:446][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.10.04-22.31.52:446][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.10.04-22.31.52:447][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2018.10.04-22.31.52:447][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2018.10.04-22.31.52:447][  0]LogRawInputWindows: VenderID:54c ProductID:9cc
+[2018.10.04-22.31.52:447][  0]LogRawInputWindows: Device was registered succesfully and is connected (Usage:5 UsagePage:1)
+[2018.10.04-22.31.52:534][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.04-22.31.52:601][  0]LogSlate: Took 0.029047 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.04-22.31.52:828][  2]LogAssetRegistry: Asset discovery search completed in 10.8019 seconds
+[2018.10.04-22.31.52:829][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.04-22.31.52:829][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.10.04-22.31.57:804][ 17]LogFileCache: Retrieving MD5 hashes for directory 'D:/GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/' took 5.34s
+[2018.10.04-22.49.42:312][206]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-22.49.42:314][206]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2018.10.04-22.49.47:165][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-22.49.47:298][503]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.04-22.49.47:380][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-22.49.47:381][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-22.49.47:433][503]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 8:49:47 AM)
+[2018.10.04-22.49.47:433][503]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.04-22.49.47:474][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040529s)
+[2018.10.04-22.49.47:475][503]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.04-22.49.47:475][503]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2018.10.04-22.49.47:475][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.041981s)
+[2018.10.04-22.49.47:537][503]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.04-22.49.47:731][503]LogInit: FAudioDevice initialized.
+[2018.10.04-22.49.47:856][503]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.04-22.49.47:865][503]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-15.49.47
+[2018.10.04-22.49.47:876][503]LogWorld: Bringing up level for play took: 0.011310
+[2018.10.04-22.49.47:953][503]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.10.04-22.49.47:975][503]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.828
+[2018.10.04-22.49.47:975][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-22.49.54:647][898]LogRenderer: Reallocating scene render targets to support 820x404 Format 10 NumSamples 1 (Frame:388).
+[2018.10.04-22.49.54:687][899]LogRenderer: Reallocating scene render targets to support 820x424 Format 10 NumSamples 1 (Frame:389).
+[2018.10.04-22.49.54:733][900]LogRenderer: Reallocating scene render targets to support 820x460 Format 10 NumSamples 1 (Frame:390).
+[2018.10.04-22.49.54:776][901]LogRenderer: Reallocating scene render targets to support 820x496 Format 10 NumSamples 1 (Frame:391).
+[2018.10.04-22.49.54:854][902]LogRenderer: Reallocating scene render targets to support 820x516 Format 10 NumSamples 1 (Frame:392).
+[2018.10.04-22.49.54:900][903]LogRenderer: Reallocating scene render targets to support 820x528 Format 10 NumSamples 1 (Frame:393).
+[2018.10.04-22.50.05:283][518]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-22.50.05:283][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-22.50.05:347][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-22.50.05:347][518]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-22.50.05:390][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-22.50.05:416][519]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.10.04-22.50.16:239][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-22.50.24:760][658]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.04-22.50.24:773][658]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MidtermBP/BP_Push.BP_Push
+[2018.10.04-22.50.25:841][658]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.10.04-22.50.27:478][658]LogSlate: Took 0.010722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.04-22.50.27:717][659]LogSlate: Took 0.012852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.04-22.50.48:535][876]LogSlate: Window 'BP_Push*' being destroyed
+[2018.10.04-22.50.48:542][876]LogSlate: Window 'BP_Push*' being destroyed
+[2018.10.04-22.51.02:812][630]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.10.04-22.51.02:822][630]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.10.04-22.51.06:985][869]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MidtermBP/BP_Push.BP_Push
+[2018.10.04-22.51.25:770][969]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/MidtermBP/Cube.Cube
+[2018.10.04-22.51.27:159][970]LogRenderer: Reallocating scene render targets to support 1096x748 Format 10 NumSamples 1 (Frame:1).
+[2018.10.04-22.51.32:140][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_Push" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_Push.uasset" SILENT=true
+[2018.10.04-22.51.32:238][251]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PushD1C8B59D4E8BD6E91DA9649AB2AD7B33.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_Push.uasset'
+[2018.10.04-22.51.40:100][705]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Music...
+[2018.10.04-22.51.40:279][705]LogTemp: Couldn't find amount to resample to.
+[2018.10.04-22.51.42:679][705]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 18480896 while cooking SoundWave /Game/Sound/Music.Music.
+[2018.10.04-22.53.41:032][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-22.53.43:567][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road)
+[2018.10.04-22.53.44:788][963]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.04-22.53.47:688][137]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.04-22.53.50:139][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-22.53.50:255][291]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.04-22.53.50:272][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-22.53.50:273][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-22.53.50:273][291]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 8:53:50 AM)
+[2018.10.04-22.53.50:273][291]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.04-22.53.50:287][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013630s)
+[2018.10.04-22.53.50:287][291]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.04-22.53.50:288][291]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2018.10.04-22.53.50:288][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015000s)
+[2018.10.04-22.53.50:366][291]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.04-22.53.50:547][291]LogInit: FAudioDevice initialized.
+[2018.10.04-22.53.50:615][291]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.04-22.53.50:620][291]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-15.53.50
+[2018.10.04-22.53.50:620][291]LogWorld: Bringing up level for play took: 0.000700
+[2018.10.04-22.53.50:633][291]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.514
+[2018.10.04-22.53.50:633][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-22.53.55:785][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-22.53.55:785][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-22.53.55:823][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-22.53.55:823][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-22.53.55:870][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-22.53.55:897][600]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.04-22.53.55:975][604]Cmd: SELECT NONE
+[2018.10.04-22.53.57:719][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-22.54.42:601][295]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.04-22.54.45:104][443]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2018.10.04-22.54.45:104][443]LogLinker: Warning: Can't find file '/Game/VehicleBP/Sedan/Sedan'
+[2018.10.04-22.54.45:104][443]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VehicleBP/Sedan/Sedan.Sedan'
+[2018.10.04-22.54.53:313][909]LogLinker: Warning: Can't find file '/Game/VehicleBP/Blueprints/VehicleGameMode'
+[2018.10.04-22.54.53:313][909]LogLinker: Warning: Can't find file '/Game/VehicleBP/Blueprints/VehicleGameMode'
+[2018.10.04-22.54.53:313][909]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode'
+[2018.10.04-22.54.53:947][947]LogLinker: Warning: Can't find file '/Game/VehicleBP/Blueprints/VehicleHUD'
+[2018.10.04-22.54.53:947][947]LogLinker: Warning: Can't find file '/Game/VehicleBP/Blueprints/VehicleHUD'
+[2018.10.04-22.54.53:947][947]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VehicleBP/Blueprints/VehicleHUD.VehicleHUD'
+[2018.10.04-22.55.01:315][375]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.04-22.55.01:324][375]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.04-23.29.14:537][650]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.04-23.30.09:789][494]LogMetaData: Removing '/Game/MidtermBP/PatienceBar.SKEL_PatienceBar_C' ref from Metadata '/Game/MidtermBP/Piancent.PackageMetaData'
+[2018.10.04-23.30.09:789][494]LogMetaData: Removing '/Game/MidtermBP/PatienceBar.PatienceBar_C' ref from Metadata '/Game/MidtermBP/Piancent.PackageMetaData'
+[2018.10.04-23.30.09:789][494]LogMetaData: Removing '/Game/MidtermBP/PatienceBar.PatienceBar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MidtermBP/Piancent.PackageMetaData'
+[2018.10.04-23.30.09:789][494]LogMetaData: Removing '/Game/MidtermBP/PatienceBar.PatienceBar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MidtermBP/Piancent.PackageMetaData'
+[2018.10.04-23.30.09:789][494]LogMetaData: Removing '/Game/MidtermBP/PatienceBar.PatienceBar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MidtermBP/Piancent.PackageMetaData'
+[2018.10.04-23.30.09:844][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/PatienceBar" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/PatienceBar.uasset" SILENT=true
+[2018.10.04-23.30.09:857][494]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/PatienceBar66AB253C403CEAF1BA5F9484B22C1086.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/PatienceBar.uasset'
+[2018.10.04-23.30.11:257][557]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MidtermBP/PatienceBar.PatienceBar
+[2018.10.04-23.30.25:865][205]LogMetaData: Removing '/Game/MidtermBP/BP_PatienceBar.BP_PatienceBar_C' ref from Metadata '/Game/MidtermBP/PatienceBar.PackageMetaData'
+[2018.10.04-23.30.25:865][205]LogMetaData: Removing '/Game/MidtermBP/BP_PatienceBar.SKEL_BP_PatienceBar_C' ref from Metadata '/Game/MidtermBP/PatienceBar.PackageMetaData'
+[2018.10.04-23.30.25:865][205]LogMetaData: Removing '/Game/MidtermBP/BP_PatienceBar.BP_PatienceBar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MidtermBP/PatienceBar.PackageMetaData'
+[2018.10.04-23.30.25:865][205]LogMetaData: Removing '/Game/MidtermBP/BP_PatienceBar.BP_PatienceBar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MidtermBP/PatienceBar.PackageMetaData'
+[2018.10.04-23.30.25:866][205]LogMetaData: Removing '/Game/MidtermBP/BP_PatienceBar.BP_PatienceBar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MidtermBP/PatienceBar.PackageMetaData'
+[2018.10.04-23.30.25:919][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_PatienceBar" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset" SILENT=true
+[2018.10.04-23.30.25:931][205]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PatienceBar4AECE48A41AB9C08DC3BA5AEB4419534.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset'
+[2018.10.04-23.30.34:405][694]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/MidtermBP/BP_PatienceBar.BP_PatienceBar
+[2018.10.04-23.34.58:465][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_PatienceBar" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset" SILENT=true
+[2018.10.04-23.34.58:490][974]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PatienceBarE9B32B314660FD5C2ABAD09082B755B7.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset'
+[2018.10.04-23.34.59:363][ 26]BlueprintLog: New page: Compile BP_PatienceBar
+[2018.10.04-23.35.00:060][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_PatienceBar" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset" SILENT=true
+[2018.10.04-23.35.00:084][ 62]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PatienceBar063A2DC241E5CEAA647AC882868CA252.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset'
+[2018.10.04-23.36.28:972][909]BlueprintLog: New page: Compile BP_PatienceBar
+[2018.10.04-23.36.35:738][308]LogAssetEditorManager: Opening Asset editor for Material /Game/MidtermBP/M_1.M_1
+[2018.10.04-23.36.35:785][308]LogMaterial: Display: Missing cached shader map for material M_1, compiling. 
+[2018.10.04-23.36.36:039][308]LogMaterial: Display: Missing cached shader map for material M_1, compiling. 
+[2018.10.04-23.36.36:056][308]LogMaterial: Display: Missing cached shader map for material M_1, compiling. 
+[2018.10.04-23.36.36:078][308]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.04-23.36.36:078][308]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.04-23.36.36:078][308]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.04-23.36.36:079][308]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.04-23.36.36:104][308]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.10.04-23.36.37:776][388]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.04-23.36.37:809][390]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.04-23.36.37:841][392]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.04-23.36.37:857][393]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.04-23.36.38:097][407]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.04-23.36.38:111][408]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.04-23.36.38:145][410]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.04-23.36.38:179][412]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.04-23.36.38:445][428]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.04-23.36.38:633][439]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.04-23.36.38:882][454]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.04-23.36.38:961][454]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.04-23.36.39:115][462]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.04-23.36.39:256][470]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.04-23.36.39:316][474]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.04-23.36.39:656][494]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.04-23.36.39:672][495]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.04-23.36.40:565][543]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MidtermBP/BP_Push.BP_Push
+[2018.10.04-23.37.01:941][784]LogEditorViewport: Clicking on Actor (LMB): BP_Push_C (BP_Push)
+[2018.10.04-23.37.03:372][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-23.39.11:991][502]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-23.39.11:992][502]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-23.39.47:082][426]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.04-23.39.47:280][427]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.UnrealMidterm
+[2018.10.04-23.39.47:280][427]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.04-23.39.47:280][427]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2018.10.04-23.39.47:280][427]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.04-23.39.47:280][427]LogTemp: BranchPath = DESKTOP-7T5SUCP/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-7T5SUCP/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.04-23.39.47:280][427]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Sol\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.04-23.40.01:395][263]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.04-23.40.01:407][263]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.04-23.40.02:585][332]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.04-23.40.02:607][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-23.40.02:608][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.04-23.40.02:608][332]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 9:40:02 AM)
+[2018.10.04-23.40.02:608][332]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.04-23.40.02:629][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020754s)
+[2018.10.04-23.40.02:630][332]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.04-23.40.02:630][332]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2018.10.04-23.40.02:630][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.022399s)
+[2018.10.04-23.40.02:720][332]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.04-23.40.02:917][332]LogInit: FAudioDevice initialized.
+[2018.10.04-23.40.02:955][332]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.04-23.40.02:959][332]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-16.40.02
+[2018.10.04-23.40.02:959][332]LogWorld: Bringing up level for play took: 0.000902
+[2018.10.04-23.40.02:972][332]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.175
+[2018.10.04-23.40.02:973][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-23.40.05:231][464]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.05:711][493]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.06:195][522]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.06:578][545]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.06:928][566]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.07:149][579]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.07:344][591]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.07:512][601]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.07:677][611]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.07:845][621]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.08:012][631]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.08:179][641]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.08:344][651]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.08:511][661]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.08:694][672]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.08:828][680]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.08:945][687]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.09:095][696]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.04-23.40.09:897][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-23.40.09:898][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-23.40.09:946][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.04-23.40.09:946][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.04-23.40.09:993][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.04-23.40.10:021][745]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.10.04-23.40.36:184][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.04-23.41.23:413][589]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/VehicleExampleMap_Auto1033169B0422F8DC625D130B4CD1CA026.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto1.umap'
+[2018.10.04-23.41.23:422][589]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.321
+[2018.10.04-23.41.23:422][589]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.321
+[2018.10.04-23.41.23:427][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MidtermBP/BP_Push] ([1] browsable assets)...
+[2018.10.04-23.41.23:442][589]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MidtermBP/BP_Push.BP_Push]
+[2018.10.04-23.41.23:442][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/MidtermBP/BP_Push]
+[2018.10.04-23.41.23:442][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_Push" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/MidtermBP/BP_Push_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.04-23.41.23:487][589]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_Push_Auto167CE1C864A2278F64F56C4A8730EA200.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/MidtermBP/BP_Push_Auto1.uasset'
+[2018.10.04-23.41.23:491][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MidtermBP/BP_PatienceBar] ([1] browsable assets)...
+[2018.10.04-23.41.23:492][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/MidtermBP/BP_PatienceBar]
+[2018.10.04-23.41.23:517][589]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PatienceBar_Auto102674E594D94C305D792ABA65A31D489.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/MidtermBP/BP_PatienceBar_Auto1.uasset'
+[2018.10.04-23.41.23:520][589]LogFileHelpers: Auto-saving content packages took 0.095
+[2018.10.04-23.41.31:147][ 38]LogSlate: Took 0.007200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.04-23.50.31:569][848]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.04-23.50.31:571][848]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2018.10.04-23.53.32:158][777]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/VehicleExampleMap_Auto230AC6F1E4E222FEB2C0BC4B3F41D2F44.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto2.umap'
+[2018.10.04-23.53.32:164][777]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.299
+[2018.10.04-23.53.32:164][777]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.299
+[2018.10.04-23.53.32:169][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MidtermBP/BP_Push] ([1] browsable assets)...
+[2018.10.04-23.53.32:185][777]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MidtermBP/BP_Push.BP_Push]
+[2018.10.04-23.53.32:185][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/MidtermBP/BP_Push]
+[2018.10.04-23.53.32:185][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_Push" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/MidtermBP/BP_Push_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.10.04-23.53.32:242][777]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_Push_Auto2DEAFD8AF4EB8C483E3BF7E822A14D4D1.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/MidtermBP/BP_Push_Auto2.uasset'
+[2018.10.04-23.53.32:246][777]LogFileHelpers: Auto-saving content packages took 0.079
+[2018.10.04-23.54.01:689][760]LogLinker: Can't find file '/Game/MyShmup/Blueprints/BP_SG2Player'
+[2018.10.04-23.54.01:689][760]LogLinker: Can't find file '/Game/MyShmup/Blueprints/BP_SG2Player'
+[2018.10.04-23.56.30:312][133]BlueprintLog: New page: Compile BP_Push
+[2018.10.04-23.56.43:064][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_Push" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_Push.uasset" SILENT=true
+[2018.10.04-23.56.43:109][876]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PushA04F5ED34F36EC246B853C9D9954EC79.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_Push.uasset'
+[2018.10.04-23.56.45:249][  3]BlueprintLog: New page: Compile BP_Push
+[2018.10.05-00.01.35:605][892]BlueprintLog: New page: Compile BP_PatienceBar
+[2018.10.05-00.01.35:613][892]LogBlueprint: Warning: [Compiler BP_PatienceBar] 'BP Push' does not inherit from 'Pawn' ( Cast To BP_Push  would always fail).
+[2018.10.05-00.01.35:653][892]LogBlueprint: Warning: [Compiler BP_PatienceBar] [5401.70] Compile of BP_PatienceBar successful, but with 1 Warning(s) [in 47 ms] (/Game/MidtermBP/BP_PatienceBar.BP_PatienceBar)
+[2018.10.05-00.02.34:597][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_PatienceBar" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset" SILENT=true
+[2018.10.05-00.02.34:631][413]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PatienceBar5861A4964C797A1E73645C834C1B7307.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset'
+[2018.10.05-00.02.52:755][733]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.05-00.03.07:073][583]LogMetaData: Removing '/Game/MidtermBP/BP_MainPlayer.BP_MainPlayer:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MidtermBP/BP_Player.PackageMetaData'
+[2018.10.05-00.03.07:073][583]LogMetaData: Removing '/Game/MidtermBP/BP_MainPlayer.SKEL_BP_MainPlayer_C' ref from Metadata '/Game/MidtermBP/BP_Player.PackageMetaData'
+[2018.10.05-00.03.07:073][583]LogMetaData: Removing '/Game/MidtermBP/BP_MainPlayer.BP_MainPlayer_C' ref from Metadata '/Game/MidtermBP/BP_Player.PackageMetaData'
+[2018.10.05-00.03.07:073][583]LogMetaData: Removing '/Game/MidtermBP/BP_MainPlayer.BP_MainPlayer:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MidtermBP/BP_Player.PackageMetaData'
+[2018.10.05-00.03.07:073][583]LogMetaData: Removing '/Game/MidtermBP/BP_MainPlayer.BP_MainPlayer:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MidtermBP/BP_Player.PackageMetaData'
+[2018.10.05-00.03.07:073][583]LogMetaData: Removing '/Game/MidtermBP/BP_MainPlayer.BP_MainPlayer:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MidtermBP/BP_Player.PackageMetaData'
+[2018.10.05-00.03.07:115][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_MainPlayer" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset" SILENT=true
+[2018.10.05-00.03.07:128][583]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_MainPlayerB8D69BB04037C2AC9123C7852D72393D.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset'
+[2018.10.05-00.03.30:056][937]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MidtermBP/BP_MainPlayer.BP_MainPlayer
+[2018.10.05-00.03.46:015][861]BlueprintLog: New page: Compile BP_MainPlayer
+[2018.10.05-00.03.46:027][861]LogBlueprint: Warning: [Compiler BP_MainPlayer] Could not find a variable named "P_C" in 'BP_MainPlayer_C'.
+Make sure 'BP_MainPlayer_C' has been compiled for  Get P_C
+[2018.10.05-00.03.46:028][861]LogBlueprint: Error: [Compiler BP_MainPlayer] The property associated with  P C  could not be found in '/Game/MidtermBP/BP_MainPlayer.BP_MainPlayer_C'
+[2018.10.05-00.03.46:277][861]LogBlueprint: Warning: [Compiler BP_MainPlayer] [5532.32] Compile of BP_MainPlayer failed. 1 Fatal Issue(s) 1 Warning(s) [in 261 ms] (/Game/MidtermBP/BP_MainPlayer.BP_MainPlayer)
+[2018.10.05-00.05.02:541][881]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.05-00.05.03:169][882]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/VehicleExampleMap_Auto357C7D7CF480019F710F64E9EA9F7D1C4.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/VehicleBP/Maps/VehicleExampleMap_Auto3.umap'
+[2018.10.05-00.05.03:175][882]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.542
+[2018.10.05-00.05.03:176][882]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.542
+[2018.10.05-00.05.03:181][882]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MidtermBP/BP_MainPlayer] ([1] browsable assets)...
+[2018.10.05-00.05.03:181][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/MidtermBP/BP_MainPlayer]
+[2018.10.05-00.05.03:212][882]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_MainPlayer_Auto3AEB966EC47E426101AF93599EF1A8811.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/MidtermBP/BP_MainPlayer_Auto3.uasset'
+[2018.10.05-00.05.03:215][882]LogFileHelpers: Auto-saving content packages took 0.036
+[2018.10.05-00.05.57:261][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.06.42:332][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.06.46:448][989]BlueprintLog: New page: Compile BP_MainPlayer
+[2018.10.05-00.07.37:251][978]BlueprintLog: New page: Compile BP_MainPlayer
+[2018.10.05-00.08.16:696][315]BlueprintLog: New page: Compile BP_MainPlayer
+[2018.10.05-00.08.24:721][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.08.25:071][804]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.05-00.08.26:618][894]LogEditorActor: Deleted Actor: BP_Push_C
+[2018.10.05-00.08.26:655][894]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2018.10.05-00.08.32:157][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.08.32:255][225]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.08.32:288][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.08.32:288][225]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.05-00.08.32:293][225]LogPlayLevel: [PlayLevel] Compiling BP_PatienceBar before play...
+[2018.10.05-00.08.32:297][225]LogBlueprint: Error: [Compiler BP_PatienceBar] The type of  Object  is undetermined.  Connect something to  Cast To BP_Push  to imply a specific type.
+[2018.10.05-00.08.32:298][225]LogBlueprint: Error: [Compiler BP_PatienceBar] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2018.10.05-00.08.32:299][225]LogBlueprint: Warning: [Compiler BP_PatienceBar] [5818.35] Compile of BP_PatienceBar failed. 2 Fatal Issue(s) 0 Warning(s) [in 6 ms] (/Game/MidtermBP/BP_PatienceBar.BP_PatienceBar)
+[2018.10.05-00.08.32:490][225]LogPlayLevel: PlayLevel: Blueprint regeneration took 201 ms (1 blueprints)
+[2018.10.05-00.08.32:490][225]BlueprintLog: Blueprint BP_PatienceBar failed to compile
+[2018.10.05-00.08.35:448][225]LogSlate: Window 'Message' being destroyed
+[2018.10.05-00.08.35:460][225]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:08:35 AM)
+[2018.10.05-00.08.35:460][225]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.08.35:477][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016979s)
+[2018.10.05-00.08.35:478][225]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.08.35:478][225]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2018.10.05-00.08.35:479][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.018747s)
+[2018.10.05-00.08.35:571][225]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.08.35:760][225]LogInit: FAudioDevice initialized.
+[2018.10.05-00.08.35:791][225]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.08.35:798][225]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.08.35
+[2018.10.05-00.08.35:813][225]LogWorld: Bringing up level for play took: 0.015593
+[2018.10.05-00.08.35:827][225]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 2.68
+[2018.10.05-00.08.35:827][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.08.41:227][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.08.41:228][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.08.41:271][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.08.41:271][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.08.41:314][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.08.41:344][542]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.10.05-00.08.44:961][759]LogEditorViewport: Clicking on Actor (LMB): BP_MainPlayer_C (BP_MainPlayer)
+[2018.10.05-00.08.47:928][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.08.48:011][936]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.08.48:036][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.08.48:036][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.08.48:037][936]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:08:48 AM)
+[2018.10.05-00.08.48:037][936]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.08.48:054][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016590s)
+[2018.10.05-00.08.48:055][936]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.08.48:055][936]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2018.10.05-00.08.48:055][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.017865s)
+[2018.10.05-00.08.48:166][936]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.08.48:350][936]LogInit: FAudioDevice initialized.
+[2018.10.05-00.08.48:386][936]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.08.48:393][936]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.08.48
+[2018.10.05-00.08.48:393][936]LogWorld: Bringing up level for play took: 0.001049
+[2018.10.05-00.08.48:406][936]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1.259
+[2018.10.05-00.08.48:406][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.08.52:471][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.08.52:471][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.08.52:514][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.08.52:515][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.08.52:568][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.08.52:597][180]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.10.05-00.09.03:791][831]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/VehicleExampleMapD21D531C496D7C3CD2DA45AD42276D37.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2018.10.05-00.09.03:892][831]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/VehicleExampleMap_BuiltData15DE2D4E46CD5B81AE7DD298BC2B9E24.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/VehicleBP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2018.10.05-00.09.27:375][229]Cmd: TRANSACTION UNDO
+[2018.10.05-00.09.27:375][229]LogEditorTransaction: Undo Create Actors
+[2018.10.05-00.09.29:784][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.09.31:969][499]LogEditorViewport: Clicking on Actor (LMB): BP_MainPlayer_C (BP_MainPlayer)
+[2018.10.05-00.09.41:478][ 66]Cmd: TRANSACTION UNDO
+[2018.10.05-00.09.41:478][ 66]LogEditorTransaction: Undo Scale Actors
+[2018.10.05-00.09.58:840][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.09.58:938][104]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.09.58:965][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.09.58:965][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.09.58:965][104]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:09:58 AM)
+[2018.10.05-00.09.58:965][104]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.09.58:982][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016585s)
+[2018.10.05-00.09.58:983][104]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.09.58:983][104]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2018.10.05-00.09.58:983][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.018074s)
+[2018.10.05-00.09.59:070][104]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.09.59:261][104]LogInit: FAudioDevice initialized.
+[2018.10.05-00.09.59:296][104]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.09.59:302][104]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.09.59
+[2018.10.05-00.09.59:303][104]LogWorld: Bringing up level for play took: 0.001483
+[2018.10.05-00.09.59:316][104]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.169
+[2018.10.05-00.09.59:316][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.10.08:173][635]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.10.08:173][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.10.08:216][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.10.08:216][635]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.10.08:274][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.10.08:303][636]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.10.05-00.10.09:969][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.10.12:504][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.10.12:603][891]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.10.12:631][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.10.12:631][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.10.12:631][891]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:10:12 AM)
+[2018.10.05-00.10.12:631][891]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.10.12:646][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014239s)
+[2018.10.05-00.10.12:647][891]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.10.12:647][891]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2018.10.05-00.10.12:647][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015669s)
+[2018.10.05-00.10.12:758][891]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.10.12:949][891]LogInit: FAudioDevice initialized.
+[2018.10.05-00.10.12:989][891]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.10.12:995][891]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.10.12
+[2018.10.05-00.10.12:995][891]LogWorld: Bringing up level for play took: 0.001182
+[2018.10.05-00.10.13:009][891]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.138
+[2018.10.05-00.10.13:009][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.10.23:706][530]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.10.23:706][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.10.23:753][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.10.23:753][530]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.10.23:810][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.10.23:836][531]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.10.05-00.10.26:035][663]LogEditorViewport: Clicking on Actor (LMB): BP_Push_C (BP_Push)
+[2018.10.05-00.10.26:739][704]Cmd: DELETE
+[2018.10.05-00.10.26:739][704]Cmd: ACTOR DELETE
+[2018.10.05-00.10.26:741][704]LogEditorActor: Deleted Actor: BP_Push_C
+[2018.10.05-00.10.26:773][704]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.10.05-00.10.27:718][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.11.10:928][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_MainPlayer" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset" SILENT=true
+[2018.10.05-00.11.10:972][337]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_MainPlayerD418F3DF45FE7608E8FD5D874FF78741.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset'
+[2018.10.05-00.11.13:373][480]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.11.13:401][480]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.11.13:401][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.11.13:401][480]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:11:13 AM)
+[2018.10.05-00.11.13:401][480]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.11.13:417][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016334s)
+[2018.10.05-00.11.13:418][480]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.11.13:419][480]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2018.10.05-00.11.13:419][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.017576s)
+[2018.10.05-00.11.13:490][480]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.11.13:685][480]LogInit: FAudioDevice initialized.
+[2018.10.05-00.11.13:703][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.11.13:796][480]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.11.13:801][480]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.11.13
+[2018.10.05-00.11.13:802][480]LogWorld: Bringing up level for play took: 0.001124
+[2018.10.05-00.11.13:814][480]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.05-00.11.13:819][480]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.672
+[2018.10.05-00.11.13:819][480]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.11.23:014][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.11.23:014][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.11.23:031][ 11]LogSlate: Window 'UnrealMidterm Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.05-00.11.23:074][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.11.23:074][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.11.23:192][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.10.05-00.11.45:333][330]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.11.45:357][330]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.11.45:357][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.11.45:357][330]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:11:45 AM)
+[2018.10.05-00.11.45:357][330]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.11.45:371][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013668s)
+[2018.10.05-00.11.45:372][330]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.11.45:372][330]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2018.10.05-00.11.45:372][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015007s)
+[2018.10.05-00.11.45:450][330]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.11.45:645][330]LogInit: FAudioDevice initialized.
+[2018.10.05-00.11.45:681][330]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.11.45:686][330]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.11.45
+[2018.10.05-00.11.45:686][330]LogWorld: Bringing up level for play took: 0.001074
+[2018.10.05-00.11.45:700][330]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-440.000 Y=7660.000 Z=1940.000] for [BP_MainPlayer_C]
+[2018.10.05-00.11.45:700][330]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw -80.000023 Roll 0.000000
+Translation: -440.000000 7660.000000 1940.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.11.45:700][330]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.554
+[2018.10.05-00.11.45:701][330]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.11.50:198][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.11.50:198][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.11.50:239][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.11.50:239][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.11.50:292][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.11.50:318][600]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.10.05-00.11.52:702][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.12.07:662][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_PatienceBar" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset" SILENT=true
+[2018.10.05-00.12.07:692][636]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PatienceBarC9D7BBCD4077E102B0F005A28F7FD265.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset'
+[2018.10.05-00.12.08:968][712]BlueprintLog: New page: Compile BP_PatienceBar
+[2018.10.05-00.12.09:631][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_PatienceBar" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset" SILENT=true
+[2018.10.05-00.12.09:659][746]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PatienceBarFA94648F4F306A53FB3B97B9A9116208.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset'
+[2018.10.05-00.12.17:873][237]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.12.17:896][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.12.17:897][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.12.17:897][237]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:12:17 AM)
+[2018.10.05-00.12.17:897][237]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.12.17:909][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012599s)
+[2018.10.05-00.12.17:911][237]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.12.17:911][237]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2018.10.05-00.12.17:911][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.014142s)
+[2018.10.05-00.12.17:998][237]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.12.18:200][237]LogInit: FAudioDevice initialized.
+[2018.10.05-00.12.18:237][237]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.12.18:242][237]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.12.18
+[2018.10.05-00.12.18:243][237]LogWorld: Bringing up level for play took: 0.001468
+[2018.10.05-00.12.18:256][237]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-440.000 Y=7660.000 Z=1940.000] for [BP_MainPlayer_C]
+[2018.10.05-00.12.18:256][237]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw -80.000023 Roll 0.000000
+Translation: -440.000000 7660.000000 1940.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.12.18:256][237]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1.109
+[2018.10.05-00.12.18:257][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.12.32:974][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.12.32:974][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.12.33:015][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.12.33:015][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.12.33:067][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.12.33:093][120]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.10.05-00.12.35:399][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.12.59:201][607]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.05-00.12.59:437][611]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.UnrealMidterm
+[2018.10.05-00.12.59:437][611]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.05-00.12.59:437][611]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2018.10.05-00.12.59:437][611]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.05-00.12.59:437][611]LogTemp: BranchPath = DESKTOP-7T5SUCP/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-7T5SUCP/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.05-00.12.59:477][613]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Sol\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.05-00.13.11:287][315]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.05-00.13.11:298][315]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.05-00.14.25:874][151]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.05-00.14.26:119][156]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.UnrealMidterm
+[2018.10.05-00.14.26:119][156]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.05-00.14.26:119][156]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2018.10.05-00.14.26:119][156]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.05-00.14.26:134][157]LogTemp: BranchPath = DESKTOP-7T5SUCP/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-7T5SUCP/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.05-00.14.26:153][158]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Sol\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.05-00.14.37:246][804]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.05-00.14.50:889][606]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.05-00.14.51:877][661]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MidtermBP/GameMode_Rhythm_Game.GameMode_Rhythm_Game
+[2018.10.05-00.14.52:256][661]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.10.05-00.14.55:282][811]LogSlate: Window 'My Blueprint' being destroyed
+[2018.10.05-00.14.55:285][811]LogSlate: Window 'My Blueprint' being destroyed
+[2018.10.05-00.14.55:286][811]LogSlate: Window 'Class Defaults' being destroyed
+[2018.10.05-00.14.55:296][811]LogSlate: Window 'Class Defaults' being destroyed
+[2018.10.05-00.14.55:298][811]LogSlate: Window 'CompilerResults' being destroyed
+[2018.10.05-00.14.55:305][811]LogSlate: Window 'CompilerResults' being destroyed
+[2018.10.05-00.14.55:411][811]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MidtermBP/GameMode_Rhythm_Game.GameMode_Rhythm_Game
+[2018.10.05-00.15.46:397][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_MainPlayer" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset" SILENT=true
+[2018.10.05-00.15.46:430][359]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_MainPlayer8A56DB0348A4BA6DDCC6FE8EE21A652E.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset'
+[2018.10.05-00.16.32:032][ 80]BlueprintLog: New page: Compile BP_PatienceBar
+[2018.10.05-00.16.32:538][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_PatienceBar" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset" SILENT=true
+[2018.10.05-00.16.32:566][104]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PatienceBar5AC34DDB411BC352D0EC49ACA61A1947.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset'
+[2018.10.05-00.16.36:734][353]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.16.36:766][353]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.16.36:766][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.16.36:767][353]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:16:36 AM)
+[2018.10.05-00.16.36:767][353]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.16.36:783][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015707s)
+[2018.10.05-00.16.36:783][353]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.16.36:784][353]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2018.10.05-00.16.36:784][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.017036s)
+[2018.10.05-00.16.36:859][353]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.16.37:071][353]LogInit: FAudioDevice initialized.
+[2018.10.05-00.16.37:110][353]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.16.37:115][353]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.16.37
+[2018.10.05-00.16.37:115][353]LogWorld: Bringing up level for play took: 0.000939
+[2018.10.05-00.16.37:128][353]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-440.000 Y=7660.000 Z=1940.000] for [BP_MainPlayer_C]
+[2018.10.05-00.16.37:128][353]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw -80.000023 Roll 0.000000
+Translation: -440.000000 7660.000000 1940.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.16.37:128][353]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.018
+[2018.10.05-00.16.37:129][353]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.16.43:565][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.16.43:565][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.16.43:604][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.16.43:604][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.16.43:660][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.16.43:691][736]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.10.05-00.16.45:583][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.16.48:704][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.16.49:202][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.16.49:231][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.16.49:231][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.16.49:231][ 63]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:16:49 AM)
+[2018.10.05-00.16.49:231][ 63]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.16.49:244][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013198s)
+[2018.10.05-00.16.49:245][ 63]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.16.49:245][ 63]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2018.10.05-00.16.49:245][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.014349s)
+[2018.10.05-00.16.49:318][ 63]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.16.49:514][ 63]LogInit: FAudioDevice initialized.
+[2018.10.05-00.16.49:549][ 63]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.16.49:553][ 63]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.16.49
+[2018.10.05-00.16.49:553][ 63]LogWorld: Bringing up level for play took: 0.000813
+[2018.10.05-00.16.49:567][ 63]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-440.000 Y=7660.000 Z=1940.000] for [BP_MainPlayer_C]
+[2018.10.05-00.16.49:567][ 63]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw -80.000023 Roll 0.000000
+Translation: -440.000000 7660.000000 1940.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.16.49:568][ 63]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.421
+[2018.10.05-00.16.49:568][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.16.54:366][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.16.54:366][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.16.54:415][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.16.54:415][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.16.54:462][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.16.54:488][351]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.10.05-00.16.55:677][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.17.32:288][476]BlueprintLog: New page: Compile BP_MainPlayer
+[2018.10.05-00.17.32:952][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_MainPlayer" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset" SILENT=true
+[2018.10.05-00.17.33:003][499]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_MainPlayer13741B4A4561601907372E9D0092A2BE.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset'
+[2018.10.05-00.17.34:928][614]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.17.34:954][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.17.34:954][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.17.34:954][614]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:17:34 AM)
+[2018.10.05-00.17.34:954][614]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.17.34:969][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014378s)
+[2018.10.05-00.17.34:970][614]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.17.34:970][614]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2018.10.05-00.17.34:970][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015646s)
+[2018.10.05-00.17.35:049][614]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.17.35:238][614]LogInit: FAudioDevice initialized.
+[2018.10.05-00.17.35:274][614]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.17.35:279][614]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.17.35
+[2018.10.05-00.17.35:280][614]LogWorld: Bringing up level for play took: 0.001026
+[2018.10.05-00.17.35:292][614]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-440.000 Y=7660.000 Z=1940.000] for [BP_MainPlayer_C]
+[2018.10.05-00.17.35:292][614]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw -80.000023 Roll 0.000000
+Translation: -440.000000 7660.000000 1940.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.17.35:293][614]LogBlueprintUserMessages: [BP_MainPlayer_2] GGGGGGGG
+[2018.10.05-00.17.35:293][614]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.146
+[2018.10.05-00.17.35:293][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.17.42:540][ 48]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.17.42:540][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.17.42:580][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.17.42:581][ 48]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.17.42:630][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.17.42:661][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.10.05-00.17.43:604][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.19.16:267][324]BlueprintLog: New page: Compile BP_MainPlayer
+[2018.10.05-00.19.16:961][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_MainPlayer" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset" SILENT=true
+[2018.10.05-00.19.17:004][349]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_MainPlayerC3E09979460B6A5169829BB59ED9ED5C.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset'
+[2018.10.05-00.19.58:937][172]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.05-00.20.06:283][591]BlueprintLog: New page: Compile BP_Push
+[2018.10.05-00.20.07:365][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_Push" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_Push.uasset" SILENT=true
+[2018.10.05-00.20.07:452][639]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_Push847C49E74979A0DD3ADE71A85630B2ED.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_Push.uasset'
+[2018.10.05-00.20.26:876][799]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.20.26:913][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.20.26:913][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.20.26:913][799]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:20:26 AM)
+[2018.10.05-00.20.26:914][799]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.20.26:928][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014690s)
+[2018.10.05-00.20.26:929][799]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.20.26:929][799]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2018.10.05-00.20.26:930][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015943s)
+[2018.10.05-00.20.26:999][799]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.20.27:194][799]LogInit: FAudioDevice initialized.
+[2018.10.05-00.20.27:225][799]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.20.27:230][799]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.20.27
+[2018.10.05-00.20.27:231][799]LogWorld: Bringing up level for play took: 0.000846
+[2018.10.05-00.20.27:243][799]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-440.000 Y=7660.000 Z=1940.000] for [BP_MainPlayer_C]
+[2018.10.05-00.20.27:243][799]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw -80.000023 Roll 0.000000
+Translation: -440.000000 7660.000000 1940.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.20.27:244][799]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.097
+[2018.10.05-00.20.27:244][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.20.38:415][467]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.20.38:415][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.20.38:459][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.20.38:459][467]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.20.38:513][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.20.38:543][468]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.10.05-00.20.40:572][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.21.01:044][810]LogEditorViewport: Clicking on Actor (LMB): BP_Push_C (BP_Push)
+[2018.10.05-00.21.01:863][858]Cmd: DELETE
+[2018.10.05-00.21.01:863][858]Cmd: ACTOR DELETE
+[2018.10.05-00.21.01:865][858]LogEditorActor: Deleted Actor: BP_Push_C
+[2018.10.05-00.21.01:901][858]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.10.05-00.21.07:392][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Road)
+[2018.10.05-00.21.08:360][243]LogEditorViewport: Clicking on Actor (LMB): BP_MainPlayer_C (BP_MainPlayer)
+[2018.10.05-00.21.10:000][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.21.11:400][424]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.21.11:423][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.21.11:423][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.21.11:423][424]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:21:11 AM)
+[2018.10.05-00.21.11:423][424]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.21.11:438][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014429s)
+[2018.10.05-00.21.11:439][424]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.21.11:439][424]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2018.10.05-00.21.11:439][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.016021s)
+[2018.10.05-00.21.11:511][424]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.21.11:708][424]LogInit: FAudioDevice initialized.
+[2018.10.05-00.21.11:726][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.21.11:817][424]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.21.11:824][424]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.21.11
+[2018.10.05-00.21.11:824][424]LogWorld: Bringing up level for play took: 0.001895
+[2018.10.05-00.21.11:835][424]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.05-00.21.11:836][424]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_MainPlayer_C]
+[2018.10.05-00.21.11:836][424]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.21.11:838][424]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.692
+[2018.10.05-00.21.11:840][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.21.16:524][701]LogSlate: Window 'UnrealMidterm Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.05-00.21.16:536][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.21.16:577][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.21.16:578][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.21.16:680][702]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.10.05-00.21.48:685][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_PatienceBar" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset" SILENT=true
+[2018.10.05-00.21.48:712][616]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_PatienceBar3AB554F249A5AF8DF5E3AFA6C71312C9.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_PatienceBar.uasset'
+[2018.10.05-00.21.51:906][807]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.21.51:934][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.21.51:934][807]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.05-00.21.51:936][807]LogPlayLevel: [PlayLevel] Compiling BP_PatienceBar before play...
+[2018.10.05-00.21.52:111][807]LogPlayLevel: PlayLevel: Blueprint regeneration took 176 ms (1 blueprints)
+[2018.10.05-00.21.52:112][807]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:21:52 AM)
+[2018.10.05-00.21.52:112][807]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.21.52:129][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017418s)
+[2018.10.05-00.21.52:130][807]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.21.52:131][807]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2018.10.05-00.21.52:131][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.018828s)
+[2018.10.05-00.21.52:208][807]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.21.52:399][807]LogInit: FAudioDevice initialized.
+[2018.10.05-00.21.52:433][807]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.21.52:438][807]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.21.52
+[2018.10.05-00.21.52:438][807]LogWorld: Bringing up level for play took: 0.001021
+[2018.10.05-00.21.52:451][807]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-440.000 Y=7660.000 Z=1940.000] for [BP_MainPlayer_C]
+[2018.10.05-00.21.52:451][807]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw -80.000023 Roll 0.000000
+Translation: -440.000000 7660.000000 1940.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.21.52:452][807]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1.304
+[2018.10.05-00.21.52:452][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.21.57:489][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.21.57:490][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.21.57:534][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.21.57:534][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.21.57:583][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.21.57:614][109]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.10.05-00.21.59:830][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-00.22.02:205][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-00.22.03:541][453]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-00.22.04:701][453]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.05-00.22.04:931][458]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.UnrealMidterm
+[2018.10.05-00.22.04:931][458]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.05-00.22.04:931][458]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2018.10.05-00.22.04:931][458]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.05-00.22.04:932][458]LogTemp: BranchPath = DESKTOP-7T5SUCP/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-7T5SUCP/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.05-00.22.04:951][459]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Sol\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.05-00.23.02:111][554]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.05-00.23.03:312][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.23.22:522][756]BlueprintLog: New page: Compile BP_MainPlayer
+[2018.10.05-00.23.23:219][784]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.23.23:249][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.23.23:249][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.23.23:249][784]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:23:23 AM)
+[2018.10.05-00.23.23:250][784]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.23.23:263][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013386s)
+[2018.10.05-00.23.23:264][784]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.23.23:264][784]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2018.10.05-00.23.23:264][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.014632s)
+[2018.10.05-00.23.23:343][784]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.23.23:557][784]LogInit: FAudioDevice initialized.
+[2018.10.05-00.23.23:575][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.23.23:659][784]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.23.23:665][784]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.23.23
+[2018.10.05-00.23.23:665][784]LogWorld: Bringing up level for play took: 0.001449
+[2018.10.05-00.23.23:677][784]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.05-00.23.23:678][784]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_MainPlayer_C]
+[2018.10.05-00.23.23:678][784]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.23.23:680][784]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.534
+[2018.10.05-00.23.23:681][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.23.27:800][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.23.27:800][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.23.27:817][ 26]LogSlate: Window 'UnrealMidterm Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.05-00.23.27:873][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.23.27:873][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.23.27:984][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.10.05-00.24.10:669][105]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MidtermBP/GameMode_Rhythm_Game.GameMode_Rhythm_Game
+[2018.10.05-00.24.15:998][399]BlueprintLog: New page: Compile GameMode_Rhythm_Game
+[2018.10.05-00.24.16:644][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/GameMode_Rhythm_Game" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/GameMode_Rhythm_Game.uasset" SILENT=true
+[2018.10.05-00.24.16:670][423]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/GameMode_Rhythm_GameC563B0224C4AC6DB3C0F27A18ADAA5BB.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/GameMode_Rhythm_Game.uasset'
+[2018.10.05-00.24.19:522][589]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.05-00.24.20:601][649]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.05-00.24.39:396][676]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.05-00.24.39:623][681]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.UnrealMidterm
+[2018.10.05-00.24.39:623][681]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.05-00.24.39:623][681]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.20
+[2018.10.05-00.24.39:623][681]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.05-00.24.39:623][681]LogTemp: BranchPath = DESKTOP-7T5SUCP/D/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-7T5SUCP/D/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.10.05-00.24.39:659][683]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Sol\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.05-00.24.54:125][547]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.05-00.24.54:136][547]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.05-00.25.56:368][248]LogSlate: Window 'Save Content' being destroyed
+[2018.10.05-00.25.56:445][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_MainPlayer" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset" SILENT=true
+[2018.10.05-00.25.56:501][248]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_MainPlayer082DE5CB42DC5828E73BE59FFD1FCD90.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset'
+[2018.10.05-00.25.57:114][248]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/VehicleExampleMap5D47B1B942B68DE5496930AC1E52B594.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2018.10.05-00.25.57:153][248]LogFileHelpers: Saving map 'VehicleExampleMap' took 0.640
+[2018.10.05-00.26.22:132][746]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.26.22:159][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.26.22:159][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.26.22:159][746]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:26:22 AM)
+[2018.10.05-00.26.22:160][746]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.26.22:173][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013561s)
+[2018.10.05-00.26.22:174][746]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.26.22:175][746]LogPlayLevel: PIE: World Init took: (0.001354s)
+[2018.10.05-00.26.22:175][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015121s)
+[2018.10.05-00.26.22:241][746]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.26.22:437][746]LogInit: FAudioDevice initialized.
+[2018.10.05-00.26.22:473][746]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.26.22:478][746]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.26.22
+[2018.10.05-00.26.22:479][746]LogWorld: Bringing up level for play took: 0.001375
+[2018.10.05-00.26.22:493][746]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.654
+[2018.10.05-00.26.22:493][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.26.23:088][781]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.28:624][113]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.29:692][177]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.30:257][211]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.30:559][229]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.30:757][241]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.30:940][252]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.31:107][262]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.31:291][273]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.31:459][283]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.31:624][293]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.31:776][302]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.31:958][313]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.32:112][322]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.32:273][332]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.32:424][341]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.32:608][352]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.32:791][363]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.32:976][374]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.33:141][384]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.33:309][394]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.36:525][587]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.45:809][144]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.46:062][159]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.46:260][171]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.46:460][183]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.46:644][194]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.46:827][205]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.47:009][216]LogBlueprintUserMessages: [BP_MainPlayer_C_0] Space_Pushed
+[2018.10.05-00.26.50:744][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.26.50:744][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.26.50:786][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.26.50:786][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.26.50:837][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.26.50:868][441]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.10.05-00.26.55:661][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.26.55:876][738]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MidtermBP/BP_MainPlayer.BP_MainPlayer
+[2018.10.05-00.27.14:456][824]BlueprintLog: New page: Compile BP_MainPlayer
+[2018.10.05-00.27.15:129][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MidtermBP/BP_MainPlayer" FILE="../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset" SILENT=true
+[2018.10.05-00.27.15:173][847]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/BP_MainPlayer9D1F792C4A01422F0E791EA3B89378E9.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/MidtermBP/BP_MainPlayer.uasset'
+[2018.10.05-00.27.17:191][967]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.27.17:221][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.27.17:221][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.27.17:221][967]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:27:17 AM)
+[2018.10.05-00.27.17:221][967]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.27.17:236][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014252s)
+[2018.10.05-00.27.17:236][967]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.27.17:237][967]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2018.10.05-00.27.17:237][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.015403s)
+[2018.10.05-00.27.17:310][967]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.27.17:501][967]LogInit: FAudioDevice initialized.
+[2018.10.05-00.27.17:535][967]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.27.17:540][967]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.27.17
+[2018.10.05-00.27.17:540][967]LogWorld: Bringing up level for play took: 0.001012
+[2018.10.05-00.27.17:553][967]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-440.000 Y=7660.000 Z=1940.000] for [BP_MainPlayer_C]
+[2018.10.05-00.27.17:553][967]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw -80.000023 Roll 0.000000
+Translation: -440.000000 7660.000000 1940.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.27.17:553][967]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.407
+[2018.10.05-00.27.17:554][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.27.27:383][556]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.27.27:384][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.27.27:422][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.27.27:422][556]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.27.27:468][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.27.27:493][557]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.10.05-00.27.28:536][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.27.31:940][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.27.31:958][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.27.31:959][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.27.31:959][823]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:27:31 AM)
+[2018.10.05-00.27.31:959][823]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.27.31:970][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011556s)
+[2018.10.05-00.27.31:971][823]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.27.31:971][823]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.10.05-00.27.31:971][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.012712s)
+[2018.10.05-00.27.32:035][823]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.27.32:221][823]LogInit: FAudioDevice initialized.
+[2018.10.05-00.27.32:256][823]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.27.32:262][823]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.27.32
+[2018.10.05-00.27.32:263][823]LogWorld: Bringing up level for play took: 0.001116
+[2018.10.05-00.27.32:276][823]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-440.000 Y=7660.000 Z=1940.000] for [BP_MainPlayer_C]
+[2018.10.05-00.27.32:277][823]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw -80.000023 Roll 0.000000
+Translation: -440.000000 7660.000000 1940.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.27.32:277][823]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1.13
+[2018.10.05-00.27.32:277][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.27.41:268][360]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.27.41:268][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.27.41:308][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.27.41:309][360]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.27.41:359][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.27.41:389][361]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.10.05-00.27.41:874][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.27.59:011][273]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MidtermBP/BP_Push.BP_Push
+[2018.10.05-00.28.29:316][972]LogSlate: Window 'Save Content' being destroyed
+[2018.10.05-00.28.29:960][972]LogSavePackage: Moving '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/VehicleExampleMap361EF9594A6D751034ECE796EDD185AE.tmp' to '../../../../../../GitHub/Rhythm_Midterm_Unreal/UnrealMidterm/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2018.10.05-00.28.29:998][972]LogFileHelpers: Saving map 'VehicleExampleMap' took 0.616
+[2018.10.05-00.28.31:034][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.05-00.28.31:056][ 34]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.28.31:056][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-00.28.31:057][ 34]PIE: New page: PIE session: VehicleExampleMap (Oct 4, 2018, 10:28:31 AM)
+[2018.10.05-00.28.31:057][ 34]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.05-00.28.31:070][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013154s)
+[2018.10.05-00.28.31:071][ 34]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.05-00.28.31:071][ 34]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2018.10.05-00.28.31:071][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.014513s)
+[2018.10.05-00.28.31:141][ 34]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.10.05-00.28.31:334][ 34]LogInit: FAudioDevice initialized.
+[2018.10.05-00.28.31:369][ 34]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.05-00.28.31:373][ 34]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.10.04-17.28.31
+[2018.10.05-00.28.31:373][ 34]LogWorld: Bringing up level for play took: 0.000898
+[2018.10.05-00.28.31:386][ 34]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-440.000 Y=7660.000 Z=1940.000] for [BP_MainPlayer_C]
+[2018.10.05-00.28.31:386][ 34]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_MainPlayer_C at Rotation: Pitch 0.000000 Yaw -80.000023 Roll 0.000000
+Translation: -440.000000 7660.000000 1940.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.10.05-00.28.31:387][ 34]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.24
+[2018.10.05-00.28.31:387][ 34]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.29.06:906][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.29.06:906][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.29.06:951][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-00.29.06:951][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.05-00.29.07:005][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-00.29.07:033][165]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2018.10.05-00.29.08:544][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-00.29.08:847][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.05-00.29.08:904][262]LogSlate: Window 'UnrealMidterm - Unreal Editor' being destroyed
+[2018.10.05-00.29.09:222][263]Cmd: QUIT_EDITOR
+[2018.10.05-00.29.09:951][263]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2018.10.05-00.29.09:973][263]LogExit: Preparing to exit.
+[2018.10.05-00.29.11:076][263]LogExit: Editor shut down
+[2018.10.05-00.29.11:076][263]LogExit: Transaction tracking system shut down
+[2018.10.05-00.29.11:986][263]LogExit: Object subsystem successfully closed.
+[2018.10.05-00.29.12:015][263]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.05-00.29.12:028][263]LogD3D11RHI: Shutdown
+[2018.10.05-00.29.12:028][263]LogD3D11RHI: CleanupD3DDevice
+[2018.10.05-00.29.12:037][263]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.05-00.29.12:110][263]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (626)
+[2018.10.05-00.29.12:110][263]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (624)
+[2018.10.05-00.29.12:110][263]LogModuleManager: Shutting down and abandoning module SequencerWidgets (622)
+[2018.10.05-00.29.12:110][263]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (620)
+[2018.10.05-00.29.12:110][263]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.10.05-00.29.12:110][263]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.10.05-00.29.12:110][263]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.10.05-00.29.12:110][263]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.10.05-00.29.12:110][263]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.10.05-00.29.12:110][263]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.10.05-00.29.12:114][263]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.10.05-00.29.12:114][263]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.10.05-00.29.12:114][263]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.10.05-00.29.12:114][263]LogModuleManager: Shutting down and abandoning module StatsViewer (600)
+[2018.10.05-00.29.12:114][263]LogModuleManager: Shutting down and abandoning module FoliageEdit (598)
+[2018.10.05-00.29.12:114][263]LogModuleManager: Shutting down and abandoning module LandscapeEditor (596)
+[2018.10.05-00.29.12:114][263]LogModuleManager: Shutting down and abandoning module MeshPaintMode (594)
+[2018.10.05-00.29.12:114][263]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (592)
+[2018.10.05-00.29.12:114][263]LogModuleManager: Shutting down and abandoning module ActorPickerMode (590)
+[2018.10.05-00.29.12:114][263]LogModuleManager: Shutting down and abandoning module GeometryMode (588)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module TextureAlignMode (586)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module BspMode (584)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (582)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (580)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module AutomationWorker (578)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2018.10.05-00.29.12:115][263]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2018.10.05-00.29.12:116][263]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2018.10.05-00.29.12:117][263]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2018.10.05-00.29.12:117][263]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2018.10.05-00.29.12:117][263]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2018.10.05-00.29.12:117][263]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2018.10.05-00.29.12:117][263]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2018.10.05-00.29.12:117][263]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2018.10.05-00.29.12:186][263]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2018.10.05-00.29.12:186][263]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2018.10.05-00.29.12:186][263]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2018.10.05-00.29.12:186][263]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2018.10.05-00.29.12:186][263]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.10.05-00.29.12:187][263]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.10.05-00.29.12:187][263]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.10.05-00.29.12:187][263]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.10.05-00.29.12:187][263]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.10.05-00.29.12:187][263]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.10.05-00.29.12:187][263]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.10.05-00.29.12:187][263]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.10.05-00.29.12:187][263]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.10.05-00.29.12:187][263]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.10.05-00.29.12:187][263]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.10.05-00.29.12:188][263]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.10.05-00.29.12:188][263]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.10.05-00.29.12:188][263]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.10.05-00.29.12:188][263]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.10.05-00.29.12:188][263]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.10.05-00.29.12:188][263]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.10.05-00.29.12:188][263]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.10.05-00.29.12:243][263]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.10.05-00.29.12:243][263]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.10.05-00.29.12:243][263]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.10.05-00.29.12:243][263]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.10.05-00.29.12:243][263]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.10.05-00.29.12:243][263]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.10.05-00.29.12:243][263]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.10.05-00.29.12:243][263]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.10.05-00.29.12:243][263]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.10.05-00.29.12:243][263]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.10.05-00.29.12:253][263]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.10.05-00.29.12:253][263]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.10.05-00.29.12:255][263]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.10.05-00.29.12:256][263]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.10.05-00.29.12:256][263]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.10.05-00.29.12:267][263]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module RawInput (364)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.10.05-00.29.12:273][263]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.10.05-00.29.12:274][263]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.10.05-00.29.12:275][263]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.10.05-00.29.12:276][263]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.10.05-00.29.12:377][263]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.10.05-00.29.12:477][263]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.05-00.29.12:477][263]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.05-00.29.12:477][263]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.05-00.29.12:477][263]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.05-00.29.12:477][263]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.05-00.29.12:477][263]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.05-00.29.12:477][263]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.05-00.29.12:479][263]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.05-00.29.12:479][263]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.05-00.29.12:479][263]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.05-00.29.12:479][263]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.05-00.29.12:480][263]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.05-00.29.12:483][263]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.05-00.29.12:483][263]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.05-00.29.12:483][263]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.05-00.29.12:483][263]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.05-00.29.12:483][263]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.05-00.29.12:483][263]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.05-00.29.12:486][263]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.05-00.29.12:492][263]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.05-00.29.12:493][263]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.05-00.29.12:494][263]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.05-00.29.12:494][263]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.05-00.29.12:494][263]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.05-00.29.12:494][263]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.05-00.29.12:499][263]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.05-00.29.12:500][263]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.05-00.29.12:500][263]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.05-00.29.12:500][263]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.05-00.29.12:500][263]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.05-00.29.12:500][263]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.05-00.29.12:500][263]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.05-00.29.12:501][263]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.05-00.29.12:524][263]LogDerivedDataCache: Shutdown
+[2018.10.05-00.29.12:524][263]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.05-00.29.12:525][263]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.05-00.29.12:525][263]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.05-00.29.12:525][263]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.05-00.29.12:525][263]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.05-00.29.12:525][263]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.05-00.29.12:525][263]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.05-00.29.12:525][263]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.05-00.29.12:525][263]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.05-00.29.12:525][263]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.05-00.29.12:525][263]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.05-00.29.12:526][263]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.05-00.29.12:526][263]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.05-00.29.12:526][263]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.05-00.29.12:526][263]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.05-00.29.12:526][263]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.05-00.29.12:526][263]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.05-00.29.12:526][263]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.05-00.29.12:526][263]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.05-00.29.12:527][263]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.05-00.29.12:527][263]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.05-00.29.12:527][263]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.05-00.29.12:527][263]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.05-00.29.12:534][263]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.05-00.29.12:534][263]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.05-00.29.12:540][263]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.05-00.29.12:540][263]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.05-00.29.12:592][263]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.05-00.29.12:593][263]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.05-00.29.12:593][263]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.05-00.29.12:593][263]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.05-00.29.12:593][263]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.05-00.29.12:594][263]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.05-00.29.12:594][263]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.05-00.29.12:604][263]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.05-00.29.12:604][263]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.05-00.29.12:604][263]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B396BA9BD-4FFF-9AA4-8022-5DBFE1DCE71D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=1d5837a54e3f56e3156fe79b1ffa6831%7C2a090aec5013421b835e5e79fe6c0c1c%7Cb545c502-ec5d-4a7a-b6c9-f0c0f8b976b4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.05-00.29.12:616][263]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.05-00.29.12:620][263]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.05-00.29.12:620][263]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.05-00.29.12:620][263]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.05-00.29.12:620][263]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.05-00.29.12:620][263]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.05-00.29.12:620][263]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.05-00.29.12:620][263]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.05-00.29.12:621][263]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.05-00.29.12:621][263]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.05-00.29.12:621][263]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.05-00.29.12:621][263]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.05-00.29.12:621][263]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.05-00.29.12:621][263]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.05-00.29.12:622][263]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.05-00.29.12:622][263]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.05-00.29.12:622][263]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.05-00.29.12:622][263]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.05-00.29.12:622][263]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.05-00.29.12:627][263]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.05-00.29.12:640][263]LogExit: Exiting.
+[2018.10.05-00.29.12:663][263]Log file closed, 10/04/18 17:29:12
