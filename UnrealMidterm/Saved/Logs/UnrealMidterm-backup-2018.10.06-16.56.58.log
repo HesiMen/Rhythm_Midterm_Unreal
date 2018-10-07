@@ -1,0 +1,803 @@
+﻿Log file open, 10/05/18 18:06:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UnrealMidterm
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.549363
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.175s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.06-01.06.38:692][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.06-01.06.38:692][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.06-01.06.38:731][  0]LogHAL: Display: Platform has ~ 16 GB [17129656320 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.06-01.06.38:731][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.06-01.06.38:731][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.06-01.06.38:732][  0]LogInit: Computer: DESKTOP-9R5KBFR
+[2018.10.06-01.06.38:732][  0]LogInit: User: jyta
+[2018.10.06-01.06.38:732][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.10.06-01.06.38:732][  0]LogInit: High frequency timer resolution =2.929688 MHz
+[2018.10.06-01.06.38:732][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.10.06-01.06.38:732][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.06-01.06.38:732][  0]LogMemory: Process Physical Memory: 102.77 MB used, 102.77 MB peak
+[2018.10.06-01.06.38:732][  0]LogMemory: Process Virtual Memory: 91.08 MB used, 91.08 MB peak
+[2018.10.06-01.06.38:732][  0]LogMemory: Physical Memory: 9243.52 MB used,  7092.59 MB free, 16336.11 MB total
+[2018.10.06-01.06.38:732][  0]LogMemory: Virtual Memory: 4673.22 MB used,  7092.59 MB free, 134217728.00 MB total
+[2018.10.06-01.06.38:744][  0]LogInit: Using OS detected language (en-US).
+[2018.10.06-01.06.38:744][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.06-01.06.38:745][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.06-01.06.39:195][  0]LogStreaming: Display: Took  0.451s to InitEngineTextLocalization.
+[2018.10.06-01.06.39:195][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.06-01.06.39:232][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.06-01.06.39:232][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.06-01.06.39:451][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.06-01.06.39:451][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.06-01.06.39:520][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.10.06-01.06.39:520][  0]LogD3D11RHI:       6052/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.06-01.06.39:522][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.06-01.06.39:522][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.06-01.06.39:522][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.06-01.06.39:532][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.06-01.06.39:532][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.06-01.06.39:532][  0]LogWindows: EnumDisplayDevices:
+[2018.10.06-01.06.39:532][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.10.06-01.06.39:533][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.10.06-01.06.39:533][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.10.06-01.06.39:533][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.10.06-01.06.39:533][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.06-01.06.39:533][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.10.06-01.06.39:533][  0]LogD3D11RHI:   Driver Version: 398.11 (internal:24.21.13.9811, unified:398.11)
+[2018.10.06-01.06.39:533][  0]LogD3D11RHI:      Driver Date: 6-1-2018
+[2018.10.06-01.06.39:533][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.10.06-01.06.39:586][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.06-01.06.39:604][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.06-01.06.39:651][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Intermediate/Shaders/WorkingDirectory/14200/).
+[2018.10.06-01.06.39:652][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jy_ta/AppData/Local/Temp/UnrealShaderWorkingDir/CF37ECDD44F51569EB64C39287AF21C7/'.
+[2018.10.06-01.06.39:912][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.06-01.06.39:928][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.06-01.06.39:943][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.06-01.06.39:959][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.06-01.06.39:976][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.06-01.06.39:992][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.06-01.06.40:009][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.06-01.06.40:027][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.06-01.06.40:034][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:153][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-01.06.40:154][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.06-01.06.40:224][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.06-01.06.40:224][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.06-01.06.40:254][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.06-01.06.40:254][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.06-01.06.40:269][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.06-01.06.40:285][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.06-01.06.40:301][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.06-01.06.40:317][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.06-01.06.40:328][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.06-01.06.40:328][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.06-01.06.40:377][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.06-01.06.40:377][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.06-01.06.40:377][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.06-01.06.41:237][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.06-01.06.41:294][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/jy_ta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.06-01.06.41:295][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jy_ta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.06-01.06.41:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.06-01.06.41:295][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.06-01.06.41:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.06-01.06.41:295][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.06-01.06.41:312][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.06-01.06.41:325][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jy_ta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.06-01.06.41:325][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.06-01.06.41:325][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.06-01.06.41:349][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.06-01.06.41:350][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.06-01.06.41:351][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.06-01.06.41:430][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.10.06-01.06.41:849][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.06-01.06.41:988][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.06-01.06.41:991][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.06-01.06.41:992][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.06-01.06.41:992][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.06-01.06.41:992][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.06-01.06.42:015][  0]LogNetVersion: UnrealMidterm 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 243509614)
+[2018.10.06-01.06.42:817][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.280594 seconds
+[2018.10.06-01.06.42:832][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.06-01.06.42:832][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.06-01.06.42:832][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.06-01.06.43:762][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.06-01.06.43:776][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.06-01.06.43:935][  0]SourceControl: Source control is disabled
+[2018.10.06-01.06.43:935][  0]SourceControl: Source control is disabled
+[2018.10.06-01.06.43:937][  0]SourceControl: Source control is disabled
+[2018.10.06-01.06.43:938][  0]SourceControl: Source control is disabled
+[2018.10.06-01.06.44:167][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.06-01.06.44:219][  0]LogOcInput: OculusInput pre-init called
+[2018.10.06-01.06.44:284][  0]LogEngine: Initializing Engine...
+[2018.10.06-01.06.44:285][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.06-01.06.44:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.06-01.06.44:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.06-01.06.44:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.06-01.06.44:287][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.06-01.06.44:535][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.06-01.06.44:548][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.06-01.06.44:620][  0]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.06-01.06.44:638][  0]LogInit: FAudioDevice initialized.
+[2018.10.06-01.06.44:638][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.06-01.06.44:727][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/jy_ta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.06-01.06.44:738][  0]LogInit: Texture streaming: Enabled
+[2018.10.06-01.06.44:759][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.06-01.06.44:776][  0]LogInit: Transaction tracking system initialized
+[2018.10.06-01.06.44:794][  0]BlueprintLog: New page: Editor Load
+[2018.10.06-01.06.44:878][  0]LocalizationService: Localization service is disabled
+[2018.10.06-01.06.45:254][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.06-01.06.45:254][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.06-01.06.45:254][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.06-01.06.45:254][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.06-01.06.45:254][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.06-01.06.45:254][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.06-01.06.45:254][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.06-01.06.45:400][  0]LogFileCache: Scanning file cache for directory 'D:/My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/' took 0.11s
+[2018.10.06-01.06.45:400][  0]SourceControl: Source control is disabled
+[2018.10.06-01.06.45:400][  0]Cmd: MAP LOAD FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.06-01.06.45:401][  0]LightingResults: New page: Lighting Build
+[2018.10.06-01.06.45:405][  0]MapCheck: New page: Map Check
+[2018.10.06-01.06.45:405][  0]LightingResults: New page: Lighting Build
+[2018.10.06-01.06.46:258][  0]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.06-01.06.46:298][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.06-01.06.46:340][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.06-01.06.46:397][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.06ms to complete.
+[2018.10.06-01.06.46:397][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 0.997
+[2018.10.06-01.06.46:709][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-01.06.46:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-01.06.46:728][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-01.06.46:737][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-01.06.46:747][  0]LogCollectionManager: Loaded 0 collections in 0.000986 seconds
+[2018.10.06-01.06.46:793][  0]LogFileCache: Scanning file cache for directory 'D:/My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Collections/' took 0.01s
+[2018.10.06-01.06.46:793][  0]LogFileCache: Scanning file cache for directory 'D:/My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Developers/jyta/Collections/' took 0.01s
+[2018.10.06-01.06.46:793][  0]LogFileCache: Scanning file cache for directory 'D:/My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Collections/' took 0.01s
+[2018.10.06-01.06.46:793][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.06-01.06.46:805][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2575 classes and 608 folders.
+[2018.10.06-01.06.46:813][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.06-01.06.47:582][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.06-01.06.47:628][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2018.10.06-01.06.47:754][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.06-01.06.47:758][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.06-01.06.47:779][  0]LogSlate: Took 0.017673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.06-01.06.47:948][  0]LogRenderer: Reallocating scene render targets to support 1184x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.06-01.06.48:102][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.06-01.06.48:102][  0]LogLoad: (Engine Initialization) Total time: 11.89 seconds
+[2018.10.06-01.06.48:102][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.06-01.06.48:117][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.10.06-01.06.48:117][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.10.06-01.06.48:117][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2018.10.06-01.06.48:117][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2018.10.06-01.06.48:118][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2018.10.06-01.06.48:151][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.06-01.06.48:228][  0]LogSlate: Took 0.028681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.06-01.06.48:308][  1]LogAssetRegistry: Asset discovery search completed in 6.9007 seconds
+[2018.10.06-01.06.48:309][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.06-01.06.48:309][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2018.10.06-01.06.53:269][ 16]LogFileCache: Retrieving MD5 hashes for directory 'D:/My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/' took 5.14s
+[2018.10.06-01.12.16:884][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.12.23:075][816]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.06-01.12.23:086][816]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.06-01.12.27:869][ 49]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../My Games/BitBucket/Unreal Midterm/UnrealMidterm/Import/Car1.fbx)
+[2018.10.06-01.12.27:883][ 49]LogFbx: Loading FBX Scene from ../../../../../../My Games/BitBucket/Unreal Midterm/UnrealMidterm/Import/Car1.fbx
+[2018.10.06-01.12.27:891][ 49]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-01.12.53:369][ 49]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.06-01.12.53:426][ 49]LogFbx: =================================================
+[2018.10.06-01.12.53:426][ 49]LogFbx: Dumping Node START [polySurface18] 
+[2018.10.06-01.12.53:426][ 49]LogFbx: 	Total Deformer Count -1357058832.
+[2018.10.06-01.12.53:426][ 49]LogFbx: 	Attribute () Type (4).
+[2018.10.06-01.12.53:426][ 49]LogFbx: 		[Node Attribute Child 1] polySurface18 (Type Mesh).
+[2018.10.06-01.12.53:426][ 49]LogFbx: Dumping Node END [polySurface18]
+[2018.10.06-01.12.53:426][ 49]LogFbx: =================================================
+[2018.10.06-01.12.53:426][ 49]LogFbx: Dumping Node START [polySurface18] 
+[2018.10.06-01.12.53:426][ 49]LogFbx: 	Total Deformer Count -1357058832.
+[2018.10.06-01.12.53:426][ 49]LogFbx: 	Attribute () Type (4).
+[2018.10.06-01.12.53:426][ 49]LogFbx: 		[Node Attribute Child 1] polySurface18 (Type Mesh).
+[2018.10.06-01.12.53:426][ 49]LogFbx: Dumping Node END [polySurface18]
+[2018.10.06-01.12.53:559][ 49]LogFbx: Triangulating skeletal mesh polySurface18
+[2018.10.06-01.12.53:575][ 49]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.06-01.12.53:595][ 49]LogSkeletalMesh: Section 0: 492 vertices, 1 active bones
+[2018.10.06-01.12.53:596][ 49]LogSkeletalMesh: Section 0: Material=0, 664 triangles
+[2018.10.06-01.12.53:596][ 49]LogSkeletalMesh: Building Skeletal Mesh Car1...
+[2018.10.06-01.12.53:597][ 49]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Level/Car1.Car1
+[2018.10.06-01.12.53:598][ 49]LogLinker: Can't find file '/Game/Level/Car1_Skeleton'
+[2018.10.06-01.12.53:598][ 49]LogLinker: Can't find file '/Game/Level/Car1_Skeleton'
+[2018.10.06-01.12.53:600][ 49]LogLinker: Can't find file '/Game/Level/Car1_PhysicsAsset'
+[2018.10.06-01.12.53:600][ 49]LogLinker: Can't find file '/Game/Level/Car1_PhysicsAsset'
+[2018.10.06-01.12.53:605][ 49]LogMaterial: Warning: Material /Game/Level/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.06-01.12.53:608][ 49]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.10.06-01.12.53:685][ 49]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.06-01.12.53:689][ 49]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.06-01.12.53:689][ 49]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.06-01.12.53:689][ 49]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.06-01.12.53:689][ 49]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.06-01.12.53:689][ 49]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.06-01.12.53:689][ 49]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.06-01.12.53:689][ 49]LogFbx: =================================================
+[2018.10.06-01.12.53:689][ 49]LogFbx: Dumping Node START [polySurface18] 
+[2018.10.06-01.12.53:689][ 49]LogFbx: 	Total Deformer Count -680397232.
+[2018.10.06-01.12.53:689][ 49]LogFbx: 	Attribute () Type (4).
+[2018.10.06-01.12.53:689][ 49]LogFbx: 		[Node Attribute Child 1] polySurface18 (Type Mesh).
+[2018.10.06-01.12.53:689][ 49]LogFbx: Dumping Node END [polySurface18]
+[2018.10.06-01.12.53:689][ 49]LogFbx: =================================================
+[2018.10.06-01.12.53:689][ 49]LogFbx: Dumping Node START [polySurface18] 
+[2018.10.06-01.12.53:689][ 49]LogFbx: 	Total Deformer Count -680397232.
+[2018.10.06-01.12.53:689][ 49]LogFbx: 	Attribute () Type (4).
+[2018.10.06-01.12.53:689][ 49]LogFbx: 		[Node Attribute Child 1] polySurface18 (Type Mesh).
+[2018.10.06-01.12.53:689][ 49]LogFbx: Dumping Node END [polySurface18]
+[2018.10.06-01.12.53:689][ 49]LogFbx: SortedLinks :(0) polySurface18
+[2018.10.06-01.12.53:690][ 49]LogFbx: Parsing AnimStack Take 001
+[2018.10.06-01.12.53:690][ 49]LogLinker: Can't find file '/Game/Level/Car1_Anim'
+[2018.10.06-01.12.53:690][ 49]LogLinker: Can't find file '/Game/Level/Car1_Anim'
+[2018.10.06-01.12.53:695][ 49]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Level/Car1_Anim.Car1_Anim
+[2018.10.06-01.12.53:695][ 49]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Car1_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.06-01.12.53:698][ 49]LogSkeletalMesh: Building Skeletal Mesh Car1...
+[2018.10.06-01.12.53:698][ 49]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Level/Car1.Car1
+[2018.10.06-01.12.53:703][ 49]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.06-01.12.53:704][ 49]LogSkeletalMesh: Building Skeletal Mesh Car1...
+[2018.10.06-01.12.53:705][ 49]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Level/Car1.Car1
+[2018.10.06-01.12.56:586][363]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Level/Car1.Car1
+[2018.10.06-01.12.56:661][363]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.06-01.12.57:244][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.12.57:246][363]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.10.06-01.12.57:343][363]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.06-01.12.57:736][363]LogSlate: Took 0.021508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.06-01.12.57:789][363]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.10.06-01.12.57:811][363]LogRenderer: Reallocating scene render targets to support 1184x888 Format 10 NumSamples 1 (Frame:1).
+[2018.10.06-01.13.10:395][556]LogSlate: Window 'Message' being destroyed
+[2018.10.06-01.13.19:152][827]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/jy_ta/Desktop/Traffic uvs/car1UV.png)
+[2018.10.06-01.13.19:273][827]LogTexture: Display: Building textures: car1UV (AutoDXT, 2048X2048)
+[2018.10.06-01.13.23:155][132]LogMaterial: Display: Missing cached shader map for material car1UV_Mat, compiling. 
+[2018.10.06-01.13.23:179][133]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.06-01.13.23:179][133]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.06-01.13.23:179][133]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.06-01.13.27:107][512]LogSkeletalMesh: Building Skeletal Mesh Car1...
+[2018.10.06-01.13.27:108][512]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Level/Car1.Car1
+[2018.10.06-01.13.27:108][512]LogMaterial: Warning: Material /Game/Level/car1UV_Mat.car1UV_Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.06-01.13.27:110][512]LogMaterial: Display: Missing cached shader map for material car1UV_Mat, compiling. 
+[2018.10.06-01.13.27:167][513]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.06-01.13.27:167][513]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.06-01.13.27:167][513]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.06-01.13.27:167][513]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.06-01.13.27:167][513]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.06-01.13.27:167][513]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.06-01.13.35:312][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.13.46:016][663]Cmd: TRANSACTION UNDO
+[2018.10.06-01.13.46:016][663]LogEditorTransaction: Undo Persona editor: material changed
+[2018.10.06-01.13.46:018][663]LogSkeletalMesh: Building Skeletal Mesh Car1...
+[2018.10.06-01.13.46:018][663]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Level/Car1.Car1
+[2018.10.06-01.13.46:123][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.13.53:459][345]Cmd: TRANSACTION UNDO
+[2018.10.06-01.13.53:459][345]LogEditorTransaction: Undo Rotate Bone
+[2018.10.06-01.13.53:561][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.13.55:492][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.13.57:635][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.13.57:827][742]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Level/Car1_Anim.Car1_Anim
+[2018.10.06-01.13.57:880][742]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.13.57:913][742]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.06-01.13.58:363][742]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.06-01.14.32:626][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.14.33:967][727]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.06-01.14.34:146][727]LogSlate: Window 'Car1_Anim*' being destroyed
+[2018.10.06-01.14.35:244][727]LogSkeletalMesh: Building Skeletal Mesh Car1...
+[2018.10.06-01.14.35:245][727]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Level/Car1.Car1
+[2018.10.06-01.14.36:745][795]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.06-01.14.38:171][862]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.06-01.14.39:846][957]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.06-01.14.59:606][267]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Import/car2.fbx)
+[2018.10.06-01.14.59:616][267]LogFbx: Loading FBX Scene from ../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Import/car2.fbx
+[2018.10.06-01.14.59:623][267]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-01.15.28:690][267]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.06-01.16.01:837][838]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Import/car2.fbx)
+[2018.10.06-01.16.01:848][838]LogFbx: Loading FBX Scene from ../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Import/car2.fbx
+[2018.10.06-01.16.01:857][838]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.06-01.16.05:018][838]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.06-01.16.05:044][838]LogFbx: =================================================
+[2018.10.06-01.16.05:044][838]LogFbx: Dumping Node START [polySurface131] 
+[2018.10.06-01.16.05:044][838]LogFbx: 	Total Deformer Count -608291088.
+[2018.10.06-01.16.05:045][838]LogFbx: 		[Node 1]  (Type Skin).
+[2018.10.06-01.16.05:045][838]LogFbx: =================================================
+[2018.10.06-01.16.05:045][838]LogFbx: 	Attribute () Type (4).
+[2018.10.06-01.16.05:045][838]LogFbx: 		[Node Attribute Child 1] polySurface131 (Type Mesh).
+[2018.10.06-01.16.05:045][838]LogFbx: Dumping Node END [polySurface131]
+[2018.10.06-01.16.05:045][838]LogFbx: =================================================
+[2018.10.06-01.16.05:045][838]LogFbx: Dumping Node START [polySurface131] 
+[2018.10.06-01.16.05:045][838]LogFbx: 	Total Deformer Count -608291088.
+[2018.10.06-01.16.05:045][838]LogFbx: 		[Node 1]  (Type Skin).
+[2018.10.06-01.16.05:045][838]LogFbx: =================================================
+[2018.10.06-01.16.05:045][838]LogFbx: 	Attribute () Type (4).
+[2018.10.06-01.16.05:045][838]LogFbx: 		[Node Attribute Child 1] polySurface131 (Type Mesh).
+[2018.10.06-01.16.05:045][838]LogFbx: Dumping Node END [polySurface131]
+[2018.10.06-01.16.05:045][838]LogFbx: Valid bind pose for Pose (skinCluster1) - polySurface131
+[2018.10.06-01.16.05:047][838]LogFbx: Triangulating skeletal mesh polySurface131
+[2018.10.06-01.16.05:061][838]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.06-01.16.05:072][838]LogSkeletalMesh: Section 0: 581 vertices, 1 active bones
+[2018.10.06-01.16.05:072][838]LogSkeletalMesh: Section 0: Material=0, 438 triangles
+[2018.10.06-01.16.05:074][838]LogSkeletalMesh: Building Skeletal Mesh car2...
+[2018.10.06-01.16.05:075][838]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Level/car2.car2
+[2018.10.06-01.16.05:076][838]LogLinker: Can't find file '/Game/Level/car2_Skeleton'
+[2018.10.06-01.16.05:076][838]LogLinker: Can't find file '/Game/Level/car2_Skeleton'
+[2018.10.06-01.16.05:077][838]LogLinker: Can't find file '/Game/Level/car2_PhysicsAsset'
+[2018.10.06-01.16.05:077][838]LogLinker: Can't find file '/Game/Level/car2_PhysicsAsset'
+[2018.10.06-01.16.05:083][838]LogFbx: =================================================
+[2018.10.06-01.16.05:083][838]LogFbx: Dumping Node START [polySurface131] 
+[2018.10.06-01.16.05:083][838]LogFbx: 	Total Deformer Count -1357060432.
+[2018.10.06-01.16.05:083][838]LogFbx: 		[Node 1]  (Type Skin).
+[2018.10.06-01.16.05:083][838]LogFbx: =================================================
+[2018.10.06-01.16.05:083][838]LogFbx: 	Attribute () Type (4).
+[2018.10.06-01.16.05:083][838]LogFbx: 		[Node Attribute Child 1] polySurface131 (Type Mesh).
+[2018.10.06-01.16.05:083][838]LogFbx: Dumping Node END [polySurface131]
+[2018.10.06-01.16.05:083][838]LogFbx: =================================================
+[2018.10.06-01.16.05:083][838]LogFbx: Dumping Node START [polySurface131] 
+[2018.10.06-01.16.05:083][838]LogFbx: 	Total Deformer Count -1357060432.
+[2018.10.06-01.16.05:083][838]LogFbx: 		[Node 1]  (Type Skin).
+[2018.10.06-01.16.05:083][838]LogFbx: =================================================
+[2018.10.06-01.16.05:083][838]LogFbx: 	Attribute () Type (4).
+[2018.10.06-01.16.05:083][838]LogFbx: 		[Node Attribute Child 1] polySurface131 (Type Mesh).
+[2018.10.06-01.16.05:083][838]LogFbx: Dumping Node END [polySurface131]
+[2018.10.06-01.16.05:083][838]LogFbx: SortedLinks :(0) joint1
+[2018.10.06-01.16.05:083][838]LogFbx: Parsing AnimStack Take 001
+[2018.10.06-01.16.05:084][838]LogLinker: Can't find file '/Game/Level/car2_Anim'
+[2018.10.06-01.16.05:084][838]LogLinker: Can't find file '/Game/Level/car2_Anim'
+[2018.10.06-01.16.05:088][838]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Level/car2_Anim.car2_Anim
+[2018.10.06-01.16.05:088][838]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.car2_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,0.000000|0.000000,0.000000,89.999992|10.924926,10.924926,10.924926), 
+Converted Global Transform (47.607628,0.000000,0.000000|0.000000,0.000000,0.000000|10.924926,10.924926,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-0.802702|0.000000,0.000000,89.999992|10.924926,10.800438,10.924926), 
+Converted Global Transform (47.607628,0.802702,0.000000|0.000000,0.000000,0.000000|10.924926,10.800438,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-2.981463|0.000000,0.000000,89.999992|10.924926,10.462543,10.924926), 
+Converted Global Transform (47.607628,2.981463,0.000000|0.000000,0.000000,0.000000|10.924926,10.462543,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-6.192269|0.000000,0.000000,89.999992|10.924926,9.964594,10.924926), 
+Converted Global Transform (47.607628,6.192269,-0.000000|0.000000,0.000000,0.000000|10.924926,9.964594,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-10.091106|0.000000,0.000000,89.999992|10.924926,9.359941,10.924926), 
+Converted Global Transform (47.607628,10.091105,-0.000001|0.000000,0.000000,0.000000|10.924926,9.359941,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-14.333958|0.000000,0.000000,89.999992|10.924926,8.701937,10.924926), 
+Converted Global Transform (47.607628,14.333956,-0.000001|0.000000,0.000000,0.000000|10.924926,8.701937,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-18.576809|0.000000,0.000000,89.999992|10.924926,8.043931,10.924926), 
+Converted Global Transform (47.607628,18.576807,-0.000001|0.000000,0.000000,0.000000|10.924926,8.043931,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-22.475645|0.000000,0.000000,89.999992|10.924926,7.439279,10.924926), 
+Converted Global Transform (47.607628,22.475643,-0.000001|0.000000,0.000000,0.000000|10.924926,7.439279,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-25.686451|0.000000,0.000000,89.999992|10.924926,6.941329,10.924926), 
+Converted Global Transform (47.607628,25.686451,0.000000|0.000000,0.000000,0.000000|10.924926,6.941329,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-27.865213|0.000000,0.000000,89.999992|10.924926,6.603435,10.924926), 
+Converted Global Transform (47.607628,27.865210,-0.000003|0.000000,0.000000,0.000000|10.924926,6.603435,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-28.667915|0.000000,0.000000,89.999992|10.924926,6.478948,10.924926), 
+Converted Global Transform (47.607628,28.667912,-0.000003|0.000000,0.000000,0.000000|10.924926,6.478948,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-28.667915|0.000000,0.000000,89.999992|10.924926,6.478948,10.924926), 
+Converted Global Transform (47.607628,28.667912,-0.000003|0.000000,0.000000,0.000000|10.924926,6.478948,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-28.667915|0.000000,0.000000,89.999992|10.924926,6.478948,10.924926), 
+Converted Global Transform (47.607628,28.667912,-0.000003|0.000000,0.000000,0.000000|10.924926,6.478948,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-28.667915|0.000000,0.000000,89.999992|10.924926,6.478948,10.924926), 
+Converted Global Transform (47.607628,28.667912,-0.000003|0.000000,0.000000,0.000000|10.924926,6.478948,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-28.667915|0.000000,0.000000,89.999992|10.924926,6.478948,10.924926), 
+Converted Global Transform (47.607628,28.667912,-0.000003|0.000000,0.000000,0.000000|10.924926,6.478948,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-28.667915|0.000000,0.000000,89.999992|10.924926,6.478948,10.924926), 
+Converted Global Transform (47.607628,28.667912,-0.000003|0.000000,0.000000,0.000000|10.924926,6.478948,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-25.381004|0.143550,-0.092396,90.461288|10.924926,6.573119,10.924926), 
+Converted Global Transform (47.607628,25.381004,0.000000|-0.092392,-0.143549,0.461521|10.924926,6.573120,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-16.131792|0.547474,-0.352408,91.756844|10.924926,6.838115,10.924926), 
+Converted Global Transform (47.607628,16.131792,0.000000|-0.352397,-0.547490,1.760217|10.924926,6.838114,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,-1.837553|1.171651,-0.754362,93.751869|10.924926,7.247653,10.924926), 
+Converted Global Transform (47.607628,1.837553,0.000000|-0.754203,-1.171762,3.767301|10.924926,7.247653,10.924925)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,16.584435|1.975816,-1.272804,96.310074|10.924926,7.775453,10.924926), 
+Converted Global Transform (47.607628,-16.584433,0.000001|-1.272048,-1.976305,6.353970|10.924926,7.775453,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,38.216892|2.919482,-1.882582,99.295509|10.924926,8.395235,10.924926), 
+Converted Global Transform (47.607628,-38.216888,0.000003|-1.880139,-2.921059,9.391423|10.924925,8.395236,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,62.142540|3.962022,-2.558810,102.573959|10.924926,9.080718,10.924926), 
+Converted Global Transform (47.607628,-62.142540,0.000000|-2.552687,-3.965965,12.750879|10.924925,9.080719,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,87.444099|5.062714,-3.276718,106.014038|10.924926,9.805623,10.924926), 
+Converted Global Transform (47.607628,-87.444099,0.000006|-3.263922,-5.070961,16.303509|10.924926,9.805623,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,113.204315|6.180925,-4.011399,109.487930|10.924926,10.543668,10.924926), 
+Converted Global Transform (47.607628,-113.204315,0.000000|-3.988038,-6.195987,19.920527|10.924925,10.543667,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,138.505875|7.276309,-4.737510,112.871780|10.924926,11.268573,10.924926), 
+Converted Global Transform (47.607628,-138.505875,0.000000|-4.699265,-7.300984,23.473141|10.924926,11.268572,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,162.431519|8.308972,-5.428981,116.045738|10.924926,11.954056,10.924926), 
+Converted Global Transform (47.607628,-162.431519,0.000000|-5.371820,-8.345893,26.832598|10.924926,11.954056,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,184.063980|9.239634,-6.058817,118.893669|10.924926,12.573838,10.924926), 
+Converted Global Transform (47.607628,-184.063980,0.000000|-5.979912,-9.290648,29.870058|10.924926,12.573837,10.924925)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,202.485962|10.029661,-6.599048,121.302513|10.924926,13.101639,10.924926), 
+Converted Global Transform (47.607628,-202.485962,0.000000|-6.497756,-10.095192,32.456734|10.924925,13.101638,10.924926)
+[2018.10.06-01.16.05:091][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,216.780212|10.640915,-7.020901,123.161087|10.924926,13.511176,10.924926), 
+Converted Global Transform (47.607628,-216.780212,0.000000|-6.899570,-10.719470,34.463825|10.924926,13.511177,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,226.029419|11.035570,-7.295184,124.358780|10.924926,13.776171,10.924926), 
+Converted Global Transform (47.607628,-226.029419,0.000000|-7.159568,-11.123408,35.762497|10.924926,13.776171,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,229.316330|11.175644,-7.392916,124.783455|10.924926,13.870343,10.924926), 
+Converted Global Transform (47.607628,-229.316330,0.000000|-7.251960,-11.266959,36.224022|10.924926,13.870344,10.924925)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,225.569565|10.686042,-6.611920,122.714516|10.924926,13.827075,10.924926), 
+Converted Global Transform (47.607628,-225.569565,0.000000|-6.496753,-10.755941,33.945827|10.924926,13.827076,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,215.324356|9.357564,-4.533243,117.101578|10.924926,13.708494,10.924926), 
+Converted Global Transform (47.607628,-215.324356,0.000000|-4.472797,-9.386415,27.840172|10.924926,13.708495,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,200.073425|7.400960,-1.555548,108.800293|10.924926,13.531446,10.924926), 
+Converted Global Transform (47.607628,-200.073425,0.000000|-1.542585,-7.403669,19.000721|10.924926,13.531446,10.924925)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,181.309509|5.050105,1.938903,98.691666|10.924926,13.312772,10.924926), 
+Converted Global Transform (47.607628,-181.309494,0.000012|1.931373,-5.052988,8.520922|10.924926,13.312772,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,160.525253|2.567406,5.592218,87.745636|10.924926,13.069312,10.924926), 
+Converted Global Transform (47.607628,-160.525238,0.000012|5.586582,-2.579668,-2.505656|10.924926,13.069312,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,139.213348|0.226134,9.060624,77.050583|10.924926,12.817910,10.924926), 
+Converted Global Transform (47.607628,-139.213333,0.000012|9.060546,-0.228995,-12.985482|10.924926,12.817910,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,118.866516|-1.715470,11.996226,67.810616|10.924926,12.575409,10.924926), 
+Converted Global Transform (47.607628,-118.866516,0.000000|11.990751,1.753749,-21.824921|10.924925,12.575409,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,100.977448|-3.030213,14.034753,61.312378|10.924926,12.358648,10.924926), 
+Converted Global Transform (47.607628,-100.977448,0.000000|14.014708,3.123273,-27.930548|10.924926,12.358649,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,87.038834|-3.514043,14.798393,58.863522|10.924926,12.184472,10.924926), 
+Converted Global Transform (47.607628,-87.038826,0.000006|14.769908,3.634288,-30.208778|10.924926,12.184473,10.924927)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,75.535751|-3.437586,14.452503,59.609421|10.924926,12.033424,10.924926), 
+Converted Global Transform (47.607628,-75.535751,0.000000|14.425912,3.549644,-29.505186|10.924926,12.033423,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,64.102249|-3.226021,13.504506,61.649693|10.924926,11.877527,10.924926), 
+Converted Global Transform (47.607628,-64.102249,0.000000|13.482677,3.317551,-27.575987|10.924926,11.877527,10.924927)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,52.954502|-2.905009,12.089170,64.684540|10.924926,11.720832,10.924926), 
+Converted Global Transform (47.607628,-52.954502,0.000000|12.073383,2.970779,-24.693548|10.924925,11.720831,10.924925)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,42.308678|-2.500853,10.341148,68.413582|10.924926,11.567391,10.924926), 
+Converted Global Transform (47.607628,-42.308678,0.000000|10.331173,2.542091,-21.130234|10.924925,11.567391,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,32.380947|-2.042151,8.394605,72.540291|10.924926,11.421260,10.924926), 
+Converted Global Transform (47.607628,-32.380947,0.000000|8.389220,2.064254,-17.158409|10.924926,11.421260,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,23.387476|-1.560302,6.383074,76.775078|10.924926,11.286490,10.924926), 
+Converted Global Transform (47.607628,-23.387476,0.000000|6.380694,1.570034,-13.050385|10.924926,11.286490,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,15.544438|-1.088917,4.439548,80.836929|10.924926,11.167135,10.924926), 
+Converted Global Transform (47.607628,-15.544438,0.000000|4.438735,1.092198,-9.078526|10.924926,11.167134,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,9.068001|-0.662774,2.696717,84.453575|10.924926,11.067248,10.924926), 
+Converted Global Transform (47.607628,-9.068001,0.000000|2.696531,0.663510,-5.515203|10.924925,11.067248,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,4.174335|-0.316654,1.287255,87.360107|10.924926,10.990882,10.924926), 
+Converted Global Transform (47.607628,-4.174335,0.000000|1.287231,0.316737,-2.632775|10.924926,10.990882,10.924925)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,-0.000000,1.079612|-0.084647,0.344003,89.295898|10.924926,10.942090,10.924926), 
+Converted Global Transform (47.607628,-1.079612,0.000000|0.343996,0.084645,-0.703588|10.924925,10.942090,10.924926)
+[2018.10.06-01.16.05:092][838]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (joint1:0) 
+Source Global Transform (47.607628,0.000000,0.000000|0.000000,0.000000,89.999992|10.924926,10.924926,10.924926), 
+Converted Global Transform (47.607628,0.000000,0.000000|0.000000,0.000000,0.000000|10.924926,10.924926,10.924926)
+[2018.10.06-01.16.05:093][838]LogSkeletalMesh: Building Skeletal Mesh car2...
+[2018.10.06-01.16.05:093][838]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Level/car2.car2
+[2018.10.06-01.16.05:099][838]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2018.10.06-01.16.05:100][838]LogSkeletalMesh: Building Skeletal Mesh car2...
+[2018.10.06-01.16.05:100][838]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Level/car2.car2
+[2018.10.06-01.16.06:310][977]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Level/car2.car2
+[2018.10.06-01.16.06:317][977]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.16.06:347][977]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.06-01.16.09:180][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.16.12:601][516]LogSkeletalMesh: Building Skeletal Mesh car2...
+[2018.10.06-01.16.12:602][516]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Level/car2.car2
+[2018.10.06-01.16.57:454][309]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleBP/Maps/VehicleExampleMap' took 0.039
+[2018.10.06-01.16.57:455][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/lambert1] ([1] browsable assets)...
+[2018.10.06-01.16.57:466][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Level/lambert1.lambert1]
+[2018.10.06-01.16.57:466][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/lambert1]
+[2018.10.06-01.16.57:492][309]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/lambert1_Auto15BC36D0748E5517DAB3A7080D414BD9B.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/Level/lambert1_Auto1.uasset'
+[2018.10.06-01.16.57:493][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level/car2_Skeleton] ([1] browsable assets)...
+[2018.10.06-01.16.57:493][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/car2_Skeleton]
+[2018.10.06-01.16.57:500][309]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car2_Skeleton_Auto11B2E1FDC4B69F286F3543EB7F00D8D61.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/Level/car2_Skeleton_Auto1.uasset'
+[2018.10.06-01.16.57:501][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/car2] ([1] browsable assets)...
+[2018.10.06-01.16.57:512][309]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Level/car2.car2]
+[2018.10.06-01.16.57:512][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/car2]
+[2018.10.06-01.16.57:530][309]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car2_Auto1DA3B71A24F958DE55C3B23A90917F921.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/Level/car2_Auto1.uasset'
+[2018.10.06-01.16.57:531][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/car2_Anim] ([1] browsable assets)...
+[2018.10.06-01.16.57:542][309]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Level/car2_Anim.car2_Anim]
+[2018.10.06-01.16.57:542][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/car2_Anim]
+[2018.10.06-01.16.57:560][309]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car2_Anim_Auto18AB636B54D742E0F8D1277962D550841.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/Level/car2_Anim_Auto1.uasset'
+[2018.10.06-01.16.57:561][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/car2_PhysicsAsset] ([1] browsable assets)...
+[2018.10.06-01.16.57:571][309]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Level/car2_PhysicsAsset.car2_PhysicsAsset]
+[2018.10.06-01.16.57:571][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/car2_PhysicsAsset]
+[2018.10.06-01.16.57:588][309]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car2_PhysicsAsset_Auto1D50C00344EB07A4D204D11BCCF01E534.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/Level/car2_PhysicsAsset_Auto1.uasset'
+[2018.10.06-01.16.57:589][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/car1UV] ([1] browsable assets)...
+[2018.10.06-01.16.57:596][309]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Level/car1UV.car1UV]
+[2018.10.06-01.16.57:596][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/car1UV]
+[2018.10.06-01.16.57:618][309]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car1UV_Auto18B68523340DB02F35D22C189F19D4F5A.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/Level/car1UV_Auto1.uasset'
+[2018.10.06-01.16.57:619][309]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Level/car1UV_Mat] ([1] browsable assets)...
+[2018.10.06-01.16.57:630][309]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Level/car1UV_Mat.car1UV_Mat]
+[2018.10.06-01.16.57:630][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level/car1UV_Mat]
+[2018.10.06-01.16.57:650][309]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car1UV_Mat_Auto11584AFBD4989726C182D1FA191CC3F6C.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/Autosaves/Game/Level/car1UV_Mat_Auto1.uasset'
+[2018.10.06-01.16.57:651][309]LogFileHelpers: Auto-saving content packages took 0.196
+[2018.10.06-01.19.05:410][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.19.12:282][806]LogSlate: Window 'Message' being destroyed
+[2018.10.06-01.19.12:291][806]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/jy_ta/Desktop/Traffic uvs/car1UV.png)
+[2018.10.06-01.19.13:266][806]LogSlate: Window 'Message' being destroyed
+[2018.10.06-01.19.13:377][806]LogTexture: Display: Building textures: car1UV (AutoDXT, 2048X2048)
+[2018.10.06-01.20.40:760][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.20.40:827][872]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.06-01.20.40:849][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.06-01.20.40:849][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.06-01.20.40:862][872]PIE: New page: PIE session: VehicleExampleMap (Oct 5, 2018, 11:20:40 AM)
+[2018.10.06-01.20.40:863][872]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.10.06-01.20.40:872][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009868s)
+[2018.10.06-01.20.40:873][872]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.10.06-01.20.40:873][872]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2018.10.06-01.20.40:873][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.010901s)
+[2018.10.06-01.20.40:917][872]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.06-01.20.40:925][872]LogInit: FAudioDevice initialized.
+[2018.10.06-01.20.40:996][872]LogLoad: Game class is 'GameMode_Rhythm_Game_C'
+[2018.10.06-01.20.40:999][872]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 0) at 2018.10.05-18.20.40
+[2018.10.06-01.20.40:999][872]LogWorld: Bringing up level for play took: 0.001066
+[2018.10.06-01.20.41:015][872]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.06-01.20.41:016][872]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.09
+[2018.10.06-01.20.41:016][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.06-01.20.42:012][961]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.06-01.20.42:308][989]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.06-01.20.42:569][ 12]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.06-01.20.42:830][ 37]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.06-01.20.43:070][ 60]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.06-01.20.43:297][ 82]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.06-01.20.43:545][106]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.06-01.20.43:744][125]LogBlueprintUserMessages: [BP_Push_2] Space_Pushed
+[2018.10.06-01.21.44:246][985]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.06-01.21.44:247][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-01.21.44:280][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.06-01.21.44:280][985]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.10.06-01.21.44:316][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-01.21.44:354][987]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.10.06-01.21.46:052][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-01.23.22:815][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.23.25:532][489]LogSlate: Window 'Message' being destroyed
+[2018.10.06-01.23.25:540][489]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/jy_ta/Desktop/Traffic uvs/car1UV.png)
+[2018.10.06-01.23.26:517][489]LogSlate: Window 'Message' being destroyed
+[2018.10.06-01.23.26:630][489]LogTexture: Display: Building textures: car1UV (AutoDXT, 2048X2048)
+[2018.10.06-01.23.38:477][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.23.38:637][718]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Level/car2_Anim.car2_Anim
+[2018.10.06-01.23.38:642][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.23.38:675][718]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.06-01.23.39:088][718]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.06-01.23.54:896][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.23.55:074][293]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/Level/car2_PhysicsAsset.car2_PhysicsAsset
+[2018.10.06-01.23.55:143][293]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.10.06-01.23.55:151][293]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.23.55:485][293]LogSlate: Took 0.020209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.06-01.24.07:309][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.24.08:681][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.24.25:721][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.25.44:447][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-01.25.44:453][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/lambert1" FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/lambert1.uasset" SILENT=true
+[2018.10.06-01.25.44:468][935]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/lambert1006D1E634AA02C20620740865C494205.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/lambert1.uasset'
+[2018.10.06-01.25.44:479][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/car2_Skeleton" FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2_Skeleton.uasset" SILENT=true
+[2018.10.06-01.25.44:486][935]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car2_Skeleton098E1C8E48FA4665C0EDD6B28F51DFE5.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2_Skeleton.uasset'
+[2018.10.06-01.25.44:497][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/car2" FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2.uasset" SILENT=true
+[2018.10.06-01.25.44:507][935]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car23FB1A2DA49C44C5749B1BB80FCB03920.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2.uasset'
+[2018.10.06-01.25.44:516][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/car2_Anim" FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2_Anim.uasset" SILENT=true
+[2018.10.06-01.25.44:524][935]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car2_AnimDE3851C245AF509F1A9EA59D710E1899.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2_Anim.uasset'
+[2018.10.06-01.25.44:538][935]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car2_PhysicsAssetDAEA5A434ABAD475A84A50A6A24FA6B2.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2_PhysicsAsset.uasset'
+[2018.10.06-01.25.44:555][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/car1UV" FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car1UV.uasset" SILENT=true
+[2018.10.06-01.25.44:992][935]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car1UV4F248942439F56CC6C43EE8C6742AB95.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car1UV.uasset'
+[2018.10.06-01.25.44:999][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/car1UV_Mat" FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car1UV_Mat.uasset" SILENT=true
+[2018.10.06-01.25.45:009][935]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car1UV_MatB7A969D648175FC6A5063EA3DC75CD13.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car1UV_Mat.uasset'
+[2018.10.06-01.25.48:394][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.25.51:151][152]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/jy_ta/Desktop/Traffic uvs/car2UV.png)
+[2018.10.06-01.25.51:251][152]LogTexture: Display: Building textures: car2UV (AutoDXT, 2048X2048)
+[2018.10.06-01.25.51:479][152]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/jy_ta/Desktop/Traffic uvs/car3uv.png)
+[2018.10.06-01.25.51:587][152]LogTexture: Display: Building textures: car3uv (AutoDXT, 2048X2048)
+[2018.10.06-01.25.55:026][438]LogMaterial: Display: Missing cached shader map for material car2UV_Mat, compiling. 
+[2018.10.06-01.25.55:059][438]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.06-01.25.55:059][438]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.06-01.25.55:059][438]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.06-01.25.57:793][658]LogMaterial: Display: Missing cached shader map for material car3uv_Mat, compiling. 
+[2018.10.06-01.25.57:806][658]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.06-01.25.57:806][658]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.06-01.25.57:806][658]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.06-01.26.14:767][260]Cmd: TRANSACTION UNDO
+[2018.10.06-01.26.14:767][260]LogEditorTransaction: Undo Rotate Bone
+[2018.10.06-01.26.15:099][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.26.15:100][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.26.15:105][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.26.24:483][139]Cmd: TRANSACTION UNDO
+[2018.10.06-01.26.24:483][139]LogEditorTransaction: Undo Translate Bone
+[2018.10.06-01.26.24:827][139]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.26.24:829][139]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.26.24:840][139]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.10.06-01.26.27:957][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.26.29:710][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.26.39:392][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.26.43:071][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-01.27.04:333][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/car2UV" FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2UV.uasset" SILENT=true
+[2018.10.06-01.27.04:737][314]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car2UVA86F57B24667A3513EF4D2B42399A5AF.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2UV.uasset'
+[2018.10.06-01.27.04:749][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/car3uv" FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car3uv.uasset" SILENT=true
+[2018.10.06-01.27.05:166][314]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car3uv111B70144FB9A5A48860D49C5C9A4CC2.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car3uv.uasset'
+[2018.10.06-01.27.05:183][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/car2UV_Mat" FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2UV_Mat.uasset" SILENT=true
+[2018.10.06-01.27.05:202][314]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car2UV_Mat9D8CAC244DC4056D85CC729C8344A7F5.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car2UV_Mat.uasset'
+[2018.10.06-01.27.05:219][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/car3uv_Mat" FILE="../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car3uv_Mat.uasset" SILENT=true
+[2018.10.06-01.27.05:241][314]LogSavePackage: Moving '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Saved/car3uv_MatD7518FCD45A4030A90ED5FA7CD82AECD.tmp' to '../../../../../../My Games/GitHub/Rhythm Game Midterm/Rhythm_Midterm_Unreal/UnrealMidterm/Content/Level/car3uv_Mat.uasset'
